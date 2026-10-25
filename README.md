@@ -7,6 +7,29 @@
 
 ---
 
+## 🚨 RPG Maker 데이터 만들기 (Google Sheet)
+
+> **게임 데이터(몬스터, 아이템, 던전 등)는 아래 Google Sheet에서 직접 수정하고, JSON으로 추출해서 사용합니다.**
+
+### 📄 Google Sheet 공유 링크
+
+**https://docs.google.com/spreadsheets/d/111Tni203rthPoNdEU70ixx0IFuWg9RhQu_a0sXO5txk/edit?usp=sharing**
+
+### 사용법
+
+1. 위 링크로 Google Sheet에 들어가서 **구글 로그인**을 합니다.
+2. **파일 > 사본 만들기**로 내 드라이브에 복사본을 만듭니다.
+3. 복사본에서 수정할 테이블을 **수정 / 추가 / 삭제**합니다.
+4. **'작업내용 공유'** 탭에서 **JSON 추출** 버튼을 클릭하면 JSON 추출이 진행됩니다.
+5. 노란색 칸(**저장할 폴더 키**)에 **본인의 Google Drive 폴더 키 값**을 입력합니다.
+   - 이 값을 넣어야 본인의 Google Drive 해당 폴더로 JSON이 들어갑니다.
+   - **폴더 키 찾는 법:** 구글 드라이브에서 저장할 폴더를 연 뒤, 브라우저 주소창의 `https://drive.google.com/drive/folders/` 뒤에 있는 문자열(`?` 앞까지)을 복사합니다.
+     - 예: `https://drive.google.com/drive/folders/1AbC...xyz?usp=sharing` → 폴더 키는 `1AbC...xyz`
+
+> ⚠️ **반드시 노란색 칸에 본인의 Google Drive 폴더 키를 입력한 뒤 JSON 추출을 진행하세요.**
+
+---
+
 ## 주요 기능
 
 채팅방에 명령어를 입력하면 캐릭터 생성부터 전투, 경제, 소셜 콘텐츠까지 한 번에 즐길 수 있습니다.
