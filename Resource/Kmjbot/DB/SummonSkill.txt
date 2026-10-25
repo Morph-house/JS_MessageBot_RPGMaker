@@ -1,0 +1,79 @@
+[
+  {
+    "index": "1",
+    "name": "성흔의 부름: 은하늑대",
+    "type": "animal",
+    "unit": "1",
+    "count": "1",
+    "description": "성신의 숲에 깃든 별의 흔적에서 태어난 은빛 야수를 소환합니다.",
+    "needrune": "10000",
+    "needdp": "10",
+    "spec": "혼"
+  },
+  {
+    "index": "2",
+    "name": "성수의 가호: 보루웅",
+    "type": "animal",
+    "unit": "2",
+    "count": "1",
+    "description": "고대 성수의 뿌리를 지키던 거대 곰의 영혼을 현세로 불러냅니다.",
+    "needrune": "50000",
+    "needdp": "15",
+    "spec": "혼"
+  },
+  {
+    "index": "3",
+    "name": "시냅스 개방: 염화령",
+    "type": "element",
+    "unit": "3",
+    "count": "1",
+    "description": "크롤러의 신경망(시냅스)에 흐르는 마찰열을 형상화한 불꽃 정령입니다.",
+    "needrune": "10000",
+    "needdp": "20",
+    "spec": "혼"
+  },
+  {
+    "index": "4",
+    "name": "에테르 동조: 유류령",
+    "type": "element",
+    "unit": "4",
+    "count": "1",
+    "description": "대지에 흐르는 황금빛 에테르 마력을 응축시킨 물의 정령입니다.",
+    "needrune": "50000",
+    "needdp": "20",
+    "spec": "혼"
+  },
+  {
+    "index": "5",
+    "name": "키틴질 공명: 암석령",
+    "type": "element",
+    "unit": "5",
+    "count": "1",
+    "description": "크롤러의 외피인 키틴질과 대지의 바위가 결합된 굳건한 정령입니다.",
+    "needrune": "50000",
+    "needdp": "20",
+    "spec": "혼"
+  },
+  {
+    "index": "6",
+    "name": "성수의 부름: 루미",
+    "type": "animal",
+    "unit": "6",
+    "count": "1",
+    "description": "별빛을 머금고 태어난 신성한 사슴 '루미'를 불러내어 아군을 치유합니다.",
+    "needrune": "60000",
+    "needdp": "25",
+    "spec": "혼"
+  },
+  {
+    "index": "7",
+    "name": "전리층 개방: 뇌전령",
+    "type": "element",
+    "unit": "7",
+    "count": "1",
+    "description": "대기 중의 에테르를 과부하시켜 강력한 벼락을 내뿜는 뇌전령을 소환합니다.",
+    "needrune": "60000",
+    "needdp": "25",
+    "spec": "혼"
+  }
+]

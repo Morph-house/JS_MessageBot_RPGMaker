@@ -1,0 +1,139 @@
+{
+  "enabled": true,
+  "api": "legacy",
+  "order": [
+    "GameManager",
+    "Main",
+    "BattleManager",
+    "CardBattleManager",
+    "CharactorManager",
+    "ClanManager",
+    "Common",
+    "Const",
+    "DataBase",
+    "ETCManager",
+    "ExchangeManager",
+    "ExplorerManager",
+    "FishingManager",
+    "GambleManager",
+    "Helper",
+    "Hunting",
+    "LoginManager",
+    "MercenaryManager",
+    "MyHomeManager",
+    "Object",
+    "PartyManager",
+    "PetManager",
+    "RecordManager",
+    "RelationManager",
+    "StockManager",
+    "WorldBossManager"
+  ],
+  "scripts": {
+    "Const": {
+      "enabled": false,
+      "compiledAt": 1792687008719
+    },
+    "Common": {
+      "enabled": false,
+      "compiledAt": 1792687008780
+    },
+    "Helper": {
+      "enabled": false,
+      "compiledAt": 1792687011827
+    },
+    "DataBase": {
+      "enabled": false,
+      "compiledAt": 1792687008911
+    },
+    "Object": {
+      "enabled": false,
+      "compiledAt": 1792687009304
+    },
+    "RelationManager": {
+      "enabled": false,
+      "compiledAt": 1792687012320
+    },
+    "RecordManager": {
+      "enabled": false,
+      "compiledAt": 1792687014963
+    },
+    "MercenaryManager": {
+      "enabled": false,
+      "compiledAt": 1792687014053
+    },
+    "ExplorerManager": {
+      "enabled": false,
+      "compiledAt": 1792687013272
+    },
+    "StockManager": {
+      "enabled": false,
+      "compiledAt": 1792687012625
+    },
+    "LoginManager": {
+      "enabled": false,
+      "compiledAt": 1792687011933
+    },
+    "WorldBossManager": {
+      "enabled": false,
+      "compiledAt": 1792687015288
+    },
+    "BattleManager": {
+      "enabled": false,
+      "compiledAt": 1792687012992
+    },
+    "Hunting": {
+      "enabled": false,
+      "compiledAt": 1792687013735
+    },
+    "GameManager": {
+      "enabled": true,
+      "compiledAt": 1792687008677
+    },
+    "Main": {
+      "enabled": true,
+      "compiledAt": 1792687737805
+    },
+    "CardBattleManager": {
+      "enabled": false,
+      "compiledAt": 1792687009617
+    },
+    "CharactorManager": {
+      "enabled": false,
+      "compiledAt": 1792687010139
+    },
+    "ClanManager": {
+      "enabled": false,
+      "compiledAt": 1792687010453
+    },
+    "ETCManager": {
+      "enabled": false,
+      "compiledAt": 1792687010782
+    },
+    "ExchangeManager": {
+      "enabled": false,
+      "compiledAt": 1792687011084
+    },
+    "FishingManager": {
+      "enabled": false,
+      "compiledAt": 1792687011435
+    },
+    "GambleManager": {
+      "enabled": false,
+      "compiledAt": 1792687011762
+    },
+    "MyHomeManager": {
+      "enabled": false,
+      "compiledAt": 1792687014354
+    },
+    "PartyManager": {
+      "enabled": false,
+      "compiledAt": 1792687012235
+    },
+    "PetManager": {
+      "enabled": false,
+      "compiledAt": 1792687014636
+    }
+  },
+  "favorite": true
+}

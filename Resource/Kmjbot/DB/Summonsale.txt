@@ -1,0 +1,27 @@
+[
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "1"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "2"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "3"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "4"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "5"
+  }
+]

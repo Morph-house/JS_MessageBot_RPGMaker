@@ -147,3 +147,6 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# 로컬 데이터베이스 파일은 저장소에 포함하지 않습니다.
+/database/

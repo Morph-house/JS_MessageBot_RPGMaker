@@ -1,0 +1,2330 @@
+[
+  {
+    "index": "1",
+    "performance": "attack",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "2",
+    "performance": "attack",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "3",
+    "performance": "attack",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "4",
+    "performance": "attack",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "5",
+    "performance": "attack",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "6",
+    "performance": "attack",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "7",
+    "performance": "attack",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "8",
+    "performance": "attack",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "9",
+    "performance": "attack",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "10",
+    "performance": "attack",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "11",
+    "performance": "attack",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "12",
+    "performance": "attack",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "13",
+    "performance": "attack",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "14",
+    "performance": "attack",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "15",
+    "performance": "attack",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "16",
+    "performance": "attack",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "17",
+    "performance": "attack",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "18",
+    "performance": "attack",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "19",
+    "performance": "attack",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "20",
+    "performance": "attack",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "21",
+    "performance": "magic",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "22",
+    "performance": "magic",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "23",
+    "performance": "magic",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "24",
+    "performance": "magic",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "25",
+    "performance": "magic",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "26",
+    "performance": "magic",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "27",
+    "performance": "magic",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "28",
+    "performance": "magic",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "29",
+    "performance": "magic",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "30",
+    "performance": "magic",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "31",
+    "performance": "magic",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "32",
+    "performance": "magic",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "33",
+    "performance": "magic",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "34",
+    "performance": "magic",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "35",
+    "performance": "magic",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "36",
+    "performance": "magic",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "37",
+    "performance": "magic",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "38",
+    "performance": "magic",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "39",
+    "performance": "magic",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "40",
+    "performance": "magic",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "41",
+    "performance": "defense",
+    "value": "1",
+    "unit": "PLUS"
+  },
+  {
+    "index": "42",
+    "performance": "defense",
+    "value": "3",
+    "unit": "PLUS"
+  },
+  {
+    "index": "43",
+    "performance": "defense",
+    "value": "5",
+    "unit": "PLUS"
+  },
+  {
+    "index": "44",
+    "performance": "defense",
+    "value": "7",
+    "unit": "PLUS"
+  },
+  {
+    "index": "45",
+    "performance": "defense",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "46",
+    "performance": "defense",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "47",
+    "performance": "defense",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "48",
+    "performance": "defense",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "49",
+    "performance": "defense",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "50",
+    "performance": "defense",
+    "value": "35",
+    "unit": "PLUS"
+  },
+  {
+    "index": "51",
+    "performance": "defense",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "52",
+    "performance": "defense",
+    "value": "45",
+    "unit": "PLUS"
+  },
+  {
+    "index": "53",
+    "performance": "defense",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "54",
+    "performance": "defense",
+    "value": "55",
+    "unit": "PLUS"
+  },
+  {
+    "index": "55",
+    "performance": "defense",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "56",
+    "performance": "defense",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "57",
+    "performance": "defense",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "58",
+    "performance": "defense",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "59",
+    "performance": "defense",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "60",
+    "performance": "defense",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "61",
+    "performance": "atkspeed",
+    "value": "1",
+    "unit": "PLUS"
+  },
+  {
+    "index": "62",
+    "performance": "atkspeed",
+    "value": "3",
+    "unit": "PLUS"
+  },
+  {
+    "index": "63",
+    "performance": "atkspeed",
+    "value": "5",
+    "unit": "PLUS"
+  },
+  {
+    "index": "64",
+    "performance": "atkspeed",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "65",
+    "performance": "atkspeed",
+    "value": "13",
+    "unit": "PLUS"
+  },
+  {
+    "index": "66",
+    "performance": "atkspeed",
+    "value": "17",
+    "unit": "PLUS"
+  },
+  {
+    "index": "67",
+    "performance": "atkspeed",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "68",
+    "performance": "atkspeed",
+    "value": "24",
+    "unit": "PLUS"
+  },
+  {
+    "index": "69",
+    "performance": "atkspeed",
+    "value": "28",
+    "unit": "PLUS"
+  },
+  {
+    "index": "70",
+    "performance": "atkspeed",
+    "value": "32",
+    "unit": "PLUS"
+  },
+  {
+    "index": "71",
+    "performance": "atkspeed",
+    "value": "37",
+    "unit": "PLUS"
+  },
+  {
+    "index": "72",
+    "performance": "atkspeed",
+    "value": "42",
+    "unit": "PLUS"
+  },
+  {
+    "index": "73",
+    "performance": "atkspeed",
+    "value": "47",
+    "unit": "PLUS"
+  },
+  {
+    "index": "74",
+    "performance": "atkspeed",
+    "value": "55",
+    "unit": "PLUS"
+  },
+  {
+    "index": "75",
+    "performance": "atkspeed",
+    "value": "63",
+    "unit": "PLUS"
+  },
+  {
+    "index": "76",
+    "performance": "atkspeed",
+    "value": "71",
+    "unit": "PLUS"
+  },
+  {
+    "index": "77",
+    "performance": "atkspeed",
+    "value": "79",
+    "unit": "PLUS"
+  },
+  {
+    "index": "78",
+    "performance": "atkspeed",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "79",
+    "performance": "atkspeed",
+    "value": "101",
+    "unit": "PLUS"
+  },
+  {
+    "index": "80",
+    "performance": "atkspeed",
+    "value": "122",
+    "unit": "PLUS"
+  },
+  {
+    "index": "81",
+    "performance": "accuracy",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "82",
+    "performance": "accuracy",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "83",
+    "performance": "accuracy",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "84",
+    "performance": "accuracy",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "85",
+    "performance": "accuracy",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "86",
+    "performance": "accuracy",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "87",
+    "performance": "accuracy",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "88",
+    "performance": "accuracy",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "89",
+    "performance": "accuracy",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "90",
+    "performance": "accuracy",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "91",
+    "performance": "accuracy",
+    "value": "110",
+    "unit": "PLUS"
+  },
+  {
+    "index": "92",
+    "performance": "accuracy",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "93",
+    "performance": "accuracy",
+    "value": "130",
+    "unit": "PLUS"
+  },
+  {
+    "index": "94",
+    "performance": "accuracy",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "95",
+    "performance": "accuracy",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "96",
+    "performance": "accuracy",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "97",
+    "performance": "accuracy",
+    "value": "170",
+    "unit": "PLUS"
+  },
+  {
+    "index": "98",
+    "performance": "accuracy",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "99",
+    "performance": "accuracy",
+    "value": "190",
+    "unit": "PLUS"
+  },
+  {
+    "index": "100",
+    "performance": "accuracy",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "101",
+    "performance": "avoid",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "102",
+    "performance": "avoid",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "103",
+    "performance": "avoid",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "104",
+    "performance": "avoid",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "105",
+    "performance": "avoid",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "106",
+    "performance": "avoid",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "107",
+    "performance": "avoid",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "108",
+    "performance": "avoid",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "109",
+    "performance": "avoid",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "110",
+    "performance": "avoid",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "111",
+    "performance": "avoid",
+    "value": "110",
+    "unit": "PLUS"
+  },
+  {
+    "index": "112",
+    "performance": "avoid",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "113",
+    "performance": "avoid",
+    "value": "130",
+    "unit": "PLUS"
+  },
+  {
+    "index": "114",
+    "performance": "avoid",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "115",
+    "performance": "avoid",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "116",
+    "performance": "avoid",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "117",
+    "performance": "avoid",
+    "value": "170",
+    "unit": "PLUS"
+  },
+  {
+    "index": "118",
+    "performance": "avoid",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "119",
+    "performance": "avoid",
+    "value": "190",
+    "unit": "PLUS"
+  },
+  {
+    "index": "120",
+    "performance": "avoid",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "121",
+    "performance": "critical",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "122",
+    "performance": "critical",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "123",
+    "performance": "critical",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "124",
+    "performance": "critical",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "125",
+    "performance": "critical",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "126",
+    "performance": "critical",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "127",
+    "performance": "critical",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "128",
+    "performance": "critical",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "129",
+    "performance": "critical",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "130",
+    "performance": "critical",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "131",
+    "performance": "critical",
+    "value": "110",
+    "unit": "PLUS"
+  },
+  {
+    "index": "132",
+    "performance": "critical",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "133",
+    "performance": "critical",
+    "value": "130",
+    "unit": "PLUS"
+  },
+  {
+    "index": "134",
+    "performance": "critical",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "135",
+    "performance": "critical",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "136",
+    "performance": "critical",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "137",
+    "performance": "critical",
+    "value": "170",
+    "unit": "PLUS"
+  },
+  {
+    "index": "138",
+    "performance": "critical",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "139",
+    "performance": "critical",
+    "value": "190",
+    "unit": "PLUS"
+  },
+  {
+    "index": "140",
+    "performance": "critical",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "141",
+    "performance": "hp",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "142",
+    "performance": "hp",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "143",
+    "performance": "hp",
+    "value": "500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "144",
+    "performance": "hp",
+    "value": "700",
+    "unit": "PLUS"
+  },
+  {
+    "index": "145",
+    "performance": "hp",
+    "value": "900",
+    "unit": "PLUS"
+  },
+  {
+    "index": "146",
+    "performance": "hp",
+    "value": "1000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "147",
+    "performance": "hp",
+    "value": "3000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "148",
+    "performance": "hp",
+    "value": "5000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "149",
+    "performance": "hp",
+    "value": "7000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "150",
+    "performance": "hp",
+    "value": "9000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "151",
+    "performance": "hp",
+    "value": "10000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "152",
+    "performance": "hp",
+    "value": "12000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "153",
+    "performance": "hp",
+    "value": "14000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "154",
+    "performance": "hp",
+    "value": "16000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "155",
+    "performance": "hp",
+    "value": "18000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "156",
+    "performance": "hp",
+    "value": "20000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "157",
+    "performance": "hp",
+    "value": "25000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "158",
+    "performance": "hp",
+    "value": "30000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "159",
+    "performance": "hp",
+    "value": "40000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "160",
+    "performance": "hp",
+    "value": "50000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "161",
+    "performance": "mp",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "162",
+    "performance": "mp",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "163",
+    "performance": "mp",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "164",
+    "performance": "mp",
+    "value": "350",
+    "unit": "PLUS"
+  },
+  {
+    "index": "165",
+    "performance": "mp",
+    "value": "450",
+    "unit": "PLUS"
+  },
+  {
+    "index": "166",
+    "performance": "mp",
+    "value": "500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "167",
+    "performance": "mp",
+    "value": "1500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "168",
+    "performance": "mp",
+    "value": "2500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "169",
+    "performance": "mp",
+    "value": "3500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "170",
+    "performance": "mp",
+    "value": "4500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "171",
+    "performance": "mp",
+    "value": "5000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "172",
+    "performance": "mp",
+    "value": "6000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "173",
+    "performance": "mp",
+    "value": "7000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "174",
+    "performance": "mp",
+    "value": "8000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "175",
+    "performance": "mp",
+    "value": "9000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "176",
+    "performance": "mp",
+    "value": "10000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "177",
+    "performance": "mp",
+    "value": "12500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "178",
+    "performance": "mp",
+    "value": "15000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "179",
+    "performance": "mp",
+    "value": "20000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "180",
+    "performance": "mp",
+    "value": "25000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "181",
+    "performance": "sp",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "182",
+    "performance": "sp",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "183",
+    "performance": "sp",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "184",
+    "performance": "sp",
+    "value": "350",
+    "unit": "PLUS"
+  },
+  {
+    "index": "185",
+    "performance": "sp",
+    "value": "450",
+    "unit": "PLUS"
+  },
+  {
+    "index": "186",
+    "performance": "sp",
+    "value": "500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "187",
+    "performance": "sp",
+    "value": "1500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "188",
+    "performance": "sp",
+    "value": "2500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "189",
+    "performance": "sp",
+    "value": "3500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "190",
+    "performance": "sp",
+    "value": "4500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "191",
+    "performance": "sp",
+    "value": "5000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "192",
+    "performance": "sp",
+    "value": "6000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "193",
+    "performance": "sp",
+    "value": "7000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "194",
+    "performance": "sp",
+    "value": "8000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "195",
+    "performance": "sp",
+    "value": "9000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "196",
+    "performance": "sp",
+    "value": "10000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "197",
+    "performance": "sp",
+    "value": "12500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "198",
+    "performance": "sp",
+    "value": "15000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "199",
+    "performance": "sp",
+    "value": "20000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "200",
+    "performance": "sp",
+    "value": "25000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "201",
+    "performance": "ap",
+    "value": "5",
+    "unit": "PLUS"
+  },
+  {
+    "index": "202",
+    "performance": "ap",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "203",
+    "performance": "ap",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "204",
+    "performance": "ap",
+    "value": "35",
+    "unit": "PLUS"
+  },
+  {
+    "index": "205",
+    "performance": "ap",
+    "value": "45",
+    "unit": "PLUS"
+  },
+  {
+    "index": "206",
+    "performance": "ap",
+    "value": "55",
+    "unit": "PLUS"
+  },
+  {
+    "index": "207",
+    "performance": "ap",
+    "value": "65",
+    "unit": "PLUS"
+  },
+  {
+    "index": "208",
+    "performance": "ap",
+    "value": "75",
+    "unit": "PLUS"
+  },
+  {
+    "index": "209",
+    "performance": "ap",
+    "value": "85",
+    "unit": "PLUS"
+  },
+  {
+    "index": "210",
+    "performance": "ap",
+    "value": "95",
+    "unit": "PLUS"
+  },
+  {
+    "index": "211",
+    "performance": "ap",
+    "value": "110",
+    "unit": "PLUS"
+  },
+  {
+    "index": "212",
+    "performance": "ap",
+    "value": "130",
+    "unit": "PLUS"
+  },
+  {
+    "index": "213",
+    "performance": "ap",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "214",
+    "performance": "ap",
+    "value": "170",
+    "unit": "PLUS"
+  },
+  {
+    "index": "215",
+    "performance": "ap",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "216",
+    "performance": "ap",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "217",
+    "performance": "ap",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "218",
+    "performance": "ap",
+    "value": "350",
+    "unit": "PLUS"
+  },
+  {
+    "index": "219",
+    "performance": "ap",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "220",
+    "performance": "ap",
+    "value": "450",
+    "unit": "PLUS"
+  },
+  {
+    "index": "221",
+    "performance": "attack",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "222",
+    "performance": "attack",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "223",
+    "performance": "attack",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "224",
+    "performance": "attack",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "225",
+    "performance": "attack",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "226",
+    "performance": "attack",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "227",
+    "performance": "magic",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "228",
+    "performance": "magic",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "229",
+    "performance": "magic",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "230",
+    "performance": "magic",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "231",
+    "performance": "magic",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "232",
+    "performance": "magic",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "233",
+    "performance": "defense",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "234",
+    "performance": "defense",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "235",
+    "performance": "defense",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "236",
+    "performance": "defense",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "237",
+    "performance": "defense",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "238",
+    "performance": "defense",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "239",
+    "performance": "technic",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "240",
+    "performance": "technic",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "241",
+    "performance": "technic",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "242",
+    "performance": "technic",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "243",
+    "performance": "technic",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "244",
+    "performance": "technic",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "245",
+    "performance": "technic",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "246",
+    "performance": "technic",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "247",
+    "performance": "technic",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "248",
+    "performance": "technic",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "249",
+    "performance": "technic",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "250",
+    "performance": "technic",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "251",
+    "performance": "technic",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "252",
+    "performance": "technic",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "253",
+    "performance": "technic",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "254",
+    "performance": "technic",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "255",
+    "performance": "technic",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "256",
+    "performance": "technic",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "257",
+    "performance": "technic",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "258",
+    "performance": "technic",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "259",
+    "performance": "wisdom",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "260",
+    "performance": "wisdom",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "261",
+    "performance": "wisdom",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "262",
+    "performance": "wisdom",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "263",
+    "performance": "wisdom",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "264",
+    "performance": "wisdom",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "265",
+    "performance": "wisdom",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "266",
+    "performance": "wisdom",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "267",
+    "performance": "wisdom",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "268",
+    "performance": "wisdom",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "269",
+    "performance": "wisdom",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "270",
+    "performance": "wisdom",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "271",
+    "performance": "wisdom",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "272",
+    "performance": "wisdom",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "273",
+    "performance": "wisdom",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "274",
+    "performance": "wisdom",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "275",
+    "performance": "wisdom",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "276",
+    "performance": "wisdom",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "277",
+    "performance": "wisdom",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "278",
+    "performance": "wisdom",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "279",
+    "performance": "insight",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "280",
+    "performance": "insight",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "281",
+    "performance": "insight",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "282",
+    "performance": "insight",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "283",
+    "performance": "insight",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "284",
+    "performance": "insight",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "285",
+    "performance": "insight",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "286",
+    "performance": "insight",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "287",
+    "performance": "insight",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "288",
+    "performance": "insight",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "289",
+    "performance": "insight",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "290",
+    "performance": "insight",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "291",
+    "performance": "insight",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "292",
+    "performance": "insight",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "293",
+    "performance": "insight",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "294",
+    "performance": "insight",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "295",
+    "performance": "insight",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "296",
+    "performance": "insight",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "297",
+    "performance": "insight",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "298",
+    "performance": "insight",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "299",
+    "performance": "technic",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "300",
+    "performance": "technic",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "301",
+    "performance": "technic",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "302",
+    "performance": "technic",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "303",
+    "performance": "technic",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "304",
+    "performance": "technic",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "305",
+    "performance": "wisdom",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "306",
+    "performance": "wisdom",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "307",
+    "performance": "wisdom",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "308",
+    "performance": "wisdom",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "309",
+    "performance": "wisdom",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "310",
+    "performance": "wisdom",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "311",
+    "performance": "insight",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "312",
+    "performance": "insight",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "313",
+    "performance": "insight",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "314",
+    "performance": "insight",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "315",
+    "performance": "insight",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "316",
+    "performance": "insight",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "317",
+    "performance": "friendly",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "318",
+    "performance": "friendly",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "319",
+    "performance": "friendly",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "320",
+    "performance": "friendly",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "321",
+    "performance": "friendly",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "322",
+    "performance": "friendly",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "323",
+    "performance": "friendly",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "324",
+    "performance": "friendly",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "325",
+    "performance": "friendly",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "326",
+    "performance": "friendly",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "327",
+    "performance": "friendly",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "328",
+    "performance": "friendly",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "329",
+    "performance": "friendly",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "330",
+    "performance": "friendly",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "331",
+    "performance": "friendly",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "332",
+    "performance": "friendly",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "333",
+    "performance": "friendly",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "334",
+    "performance": "friendly",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "335",
+    "performance": "friendly",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "336",
+    "performance": "friendly",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "337",
+    "performance": "godevil",
+    "value": "10",
+    "unit": "PLUS"
+  },
+  {
+    "index": "338",
+    "performance": "godevil",
+    "value": "15",
+    "unit": "PLUS"
+  },
+  {
+    "index": "339",
+    "performance": "godevil",
+    "value": "20",
+    "unit": "PLUS"
+  },
+  {
+    "index": "340",
+    "performance": "godevil",
+    "value": "25",
+    "unit": "PLUS"
+  },
+  {
+    "index": "341",
+    "performance": "godevil",
+    "value": "30",
+    "unit": "PLUS"
+  },
+  {
+    "index": "342",
+    "performance": "godevil",
+    "value": "40",
+    "unit": "PLUS"
+  },
+  {
+    "index": "343",
+    "performance": "godevil",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "344",
+    "performance": "godevil",
+    "value": "60",
+    "unit": "PLUS"
+  },
+  {
+    "index": "345",
+    "performance": "godevil",
+    "value": "70",
+    "unit": "PLUS"
+  },
+  {
+    "index": "346",
+    "performance": "godevil",
+    "value": "80",
+    "unit": "PLUS"
+  },
+  {
+    "index": "347",
+    "performance": "godevil",
+    "value": "90",
+    "unit": "PLUS"
+  },
+  {
+    "index": "348",
+    "performance": "godevil",
+    "value": "100",
+    "unit": "PLUS"
+  },
+  {
+    "index": "349",
+    "performance": "godevil",
+    "value": "120",
+    "unit": "PLUS"
+  },
+  {
+    "index": "350",
+    "performance": "godevil",
+    "value": "140",
+    "unit": "PLUS"
+  },
+  {
+    "index": "351",
+    "performance": "godevil",
+    "value": "160",
+    "unit": "PLUS"
+  },
+  {
+    "index": "352",
+    "performance": "godevil",
+    "value": "180",
+    "unit": "PLUS"
+  },
+  {
+    "index": "353",
+    "performance": "godevil",
+    "value": "200",
+    "unit": "PLUS"
+  },
+  {
+    "index": "354",
+    "performance": "godevil",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "355",
+    "performance": "godevil",
+    "value": "300",
+    "unit": "PLUS"
+  },
+  {
+    "index": "356",
+    "performance": "godevil",
+    "value": "400",
+    "unit": "PLUS"
+  },
+  {
+    "index": "357",
+    "performance": "dp",
+    "value": "50",
+    "unit": "PLUS"
+  },
+  {
+    "index": "358",
+    "performance": "dp",
+    "value": "150",
+    "unit": "PLUS"
+  },
+  {
+    "index": "359",
+    "performance": "dp",
+    "value": "250",
+    "unit": "PLUS"
+  },
+  {
+    "index": "360",
+    "performance": "dp",
+    "value": "350",
+    "unit": "PLUS"
+  },
+  {
+    "index": "361",
+    "performance": "dp",
+    "value": "450",
+    "unit": "PLUS"
+  },
+  {
+    "index": "362",
+    "performance": "dp",
+    "value": "500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "363",
+    "performance": "dp",
+    "value": "1500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "364",
+    "performance": "dp",
+    "value": "2500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "365",
+    "performance": "dp",
+    "value": "3500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "366",
+    "performance": "dp",
+    "value": "4500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "367",
+    "performance": "dp",
+    "value": "5000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "368",
+    "performance": "dp",
+    "value": "6000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "369",
+    "performance": "dp",
+    "value": "7000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "370",
+    "performance": "dp",
+    "value": "8000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "371",
+    "performance": "dp",
+    "value": "9000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "372",
+    "performance": "dp",
+    "value": "10000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "373",
+    "performance": "dp",
+    "value": "12500",
+    "unit": "PLUS"
+  },
+  {
+    "index": "374",
+    "performance": "dp",
+    "value": "15000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "375",
+    "performance": "dp",
+    "value": "20000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "376",
+    "performance": "dp",
+    "value": "25000",
+    "unit": "PLUS"
+  },
+  {
+    "index": "377",
+    "performance": "friendly",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "378",
+    "performance": "friendly",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "379",
+    "performance": "friendly",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "380",
+    "performance": "friendly",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "381",
+    "performance": "friendly",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "382",
+    "performance": "friendly",
+    "value": "50",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "383",
+    "performance": "godevil",
+    "value": "5",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "384",
+    "performance": "godevil",
+    "value": "10",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "385",
+    "performance": "godevil",
+    "value": "20",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "386",
+    "performance": "godevil",
+    "value": "30",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "387",
+    "performance": "godevil",
+    "value": "40",
+    "unit": "PERCENT"
+  },
+  {
+    "index": "388",
+    "performance": "godevil",
+    "value": "50",
+    "unit": "PERCENT"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "index": "1",
+    "name": "크로리",
+    "kind": "sward",
+    "lowkind": "",
+    "ability": {
+      "attack": "250",
+      "magic": "0",
+      "defense": "120",
+      "atkspeed": "32",
+      "accuracy": "55",
+      "avoid": "65",
+      "critical": "30",
+      "hp": "1500",
+      "mp": "0",
+      "sp": "0"
+    },
+    "skill": [],
+    "skillrate": "0",
+    "needrune": "1000",
+    "pay": "1",
+    "upcounter": "0",
+    "uprune": "0",
+    "upitem": {
+      "index": "",
+      "count": "",
+      "kind": ""
+    },
+    "aura": {
+      "kind": "defense",
+      "value": "8",
+      "type": "PLUS"
+    }
+  }
+]

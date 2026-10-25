@@ -1,0 +1,682 @@
+[
+  {
+    "index": "1",
+    "prefix": "❤️",
+    "name": "약초",
+    "kind": "recovery2",
+    "description": "일정량 체력을 회복한다.",
+    "needrune": "100",
+    "effect": "hp",
+    "amount": "500"
+  },
+  {
+    "index": "2",
+    "prefix": "💙",
+    "name": "허브",
+    "kind": "recovery2",
+    "description": "일정량 마력을 회복한다.",
+    "needrune": "200",
+    "effect": "mp",
+    "amount": "250"
+  },
+  {
+    "index": "3",
+    "prefix": "💛",
+    "name": "고기",
+    "kind": "recovery2",
+    "description": "일정량 기력을 회복한다.",
+    "needrune": "200",
+    "effect": "sp",
+    "amount": "250"
+  },
+  {
+    "index": "40",
+    "prefix": "💜",
+    "name": "버섯",
+    "kind": "recovery2",
+    "description": "일정량 정신력을 회복한다.",
+    "needrune": "200",
+    "effect": "dp",
+    "amount": "250"
+  },
+  {
+    "index": "4",
+    "prefix": "🎁",
+    "name": "회복상자",
+    "kind": "package",
+    "description": "약초 허브 고기 버섯이 담겨 있는 박스",
+    "needrune": "3000",
+    "effect": "",
+    "amount": ""
+  },
+  {
+    "index": "5",
+    "prefix": "📜",
+    "name": "별의 마을 리콜",
+    "kind": "recall",
+    "description": "별의 마을로 순간 이동하는 주문서",
+    "needrune": "500",
+    "effect": "",
+    "amount": "1"
+  },
+  {
+    "index": "6",
+    "prefix": "📜",
+    "name": "앰버 하운 리콜",
+    "kind": "recall",
+    "description": "앰버 하운로 순간 이동하는 주문서",
+    "needrune": "500",
+    "effect": "",
+    "amount": "2"
+  },
+  {
+    "index": "7",
+    "prefix": "🤍",
+    "name": "여신의 눈물",
+    "kind": "recovery",
+    "description": "행동력 최대치의 일정 비율로 행동력을 회복한다.",
+    "needrune": "5000",
+    "effect": "ap",
+    "amount": "10"
+  },
+  {
+    "index": "8",
+    "prefix": "🤍",
+    "name": "여신의 빛",
+    "kind": "recovery",
+    "description": "행동력 최대치의 일정 비율로 행동력을 회복한다.",
+    "needrune": "15000",
+    "effect": "ap",
+    "amount": "30"
+  },
+  {
+    "index": "9",
+    "prefix": "🤍",
+    "name": "여신의 은혜",
+    "kind": "recovery",
+    "description": "행동력 최대치의 일정 비율로 행동력을 회복한다.",
+    "needrune": "25000",
+    "effect": "ap",
+    "amount": "50"
+  },
+  {
+    "index": "10",
+    "prefix": "🤍",
+    "name": "여신의 신물",
+    "kind": "recovery",
+    "description": "행동력 최대치의 일정 비율로 행동력을 회복한다.",
+    "needrune": "50000",
+    "effect": "ap",
+    "amount": "100"
+  },
+  {
+    "index": "11",
+    "prefix": "⚡",
+    "name": "크롤러 기어 채굴기",
+    "kind": "obtain",
+    "description": "[1단계]땅을 파는 광부 로봇이라는 뜻으로, '크롤러 구동계'를 개조해 만든 유저 전용 자동 채굴 장치",
+    "needrune": "1000",
+    "effect": "",
+    "amount": "3600"
+  },
+  {
+    "index": "12",
+    "prefix": "⚡",
+    "name": "시냅스 링크 채굴기",
+    "kind": "obtain",
+    "description": "[2단계]땅을 파는 광부 로봇이라는 뜻으로, '크롤러 구동계'를 개조해 만든 유저 전용 자동 채굴 장치",
+    "needrune": "2000",
+    "effect": "",
+    "amount": "7200"
+  },
+  {
+    "index": "13",
+    "prefix": "⚡",
+    "name": "에테르 펄스 채굴기",
+    "kind": "obtain",
+    "description": "[3단계]땅을 파는 광부 로봇이라는 뜻으로, '크롤러 구동계'를 개조해 만든 유저 전용 자동 채굴 장치",
+    "needrune": "5000",
+    "effect": "",
+    "amount": "18000"
+  },
+  {
+    "index": "14",
+    "prefix": "🎣",
+    "name": "크롤러 기어 낚싯대",
+    "kind": "fishinglod",
+    "description": "크롤러의 단단한 외갑각과 구동축 프레임을 이어 붙여 만든 입문용 낚싯대입니다. ",
+    "needrune": "1000",
+    "effect": "timeterm",
+    "amount": "1"
+  },
+  {
+    "index": "15",
+    "prefix": "⚙️",
+    "name": "크롤러 기어 릴",
+    "kind": "reel",
+    "description": "크롤러의 내부 동력 전달부에 쓰이던 기어와 볼트를 정밀하게 재조립한 기계식 릴입니다",
+    "needrune": "1000",
+    "effect": "timeterm",
+    "amount": "1"
+  },
+  {
+    "index": "16",
+    "prefix": "🐛",
+    "name": "크롤러 기어 루어",
+    "kind": "lure",
+    "description": "크롤러의 광학 센서 파편이나 매끄럽게 연마된 볼트를 활용해 만든 미끼입니다",
+    "needrune": "1000",
+    "effect": "sizerate",
+    "amount": "2"
+  },
+  {
+    "index": "17",
+    "prefix": "🧵",
+    "name": "크롤러 기어 줄",
+    "kind": "fishinggut",
+    "description": "주변 에너지를 탐지하는 크롤러의 안테나에서 추출한 **'바이오 필라멘트'**를 여러 겹으로 꼬아 만든 낚싯줄입니다",
+    "needrune": "1000",
+    "effect": "uniquerate",
+    "amount": "5"
+  },
+  {
+    "index": "18",
+    "prefix": "📜",
+    "name": "가르디아 리콜",
+    "kind": "recall",
+    "description": "가르디아로 순간 이동하는 주문서",
+    "needrune": "800",
+    "effect": "",
+    "amount": "3"
+  },
+  {
+    "index": "19",
+    "prefix": "📜",
+    "name": "솔라리스 리콜",
+    "kind": "recall",
+    "description": "솔라리스로 순간 이동하는 주문서",
+    "needrune": "800",
+    "effect": "",
+    "amount": "4"
+  },
+  {
+    "index": "20",
+    "prefix": "🪨",
+    "name": "힘의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "str",
+    "amount": "1"
+  },
+  {
+    "index": "21",
+    "prefix": "🪨",
+    "name": "체질의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "con",
+    "amount": "1"
+  },
+  {
+    "index": "22",
+    "prefix": "🪨",
+    "name": "민첩의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "dex",
+    "amount": "1"
+  },
+  {
+    "index": "23",
+    "prefix": "🪨",
+    "name": "재주의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "agi",
+    "amount": "1"
+  },
+  {
+    "index": "24",
+    "prefix": "🪨",
+    "name": "지능의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "int",
+    "amount": "1"
+  },
+  {
+    "index": "25",
+    "prefix": "🪨",
+    "name": "운의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "luk",
+    "amount": "1"
+  },
+  {
+    "index": "26",
+    "prefix": "🪨",
+    "name": "효율의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "ept",
+    "amount": "1"
+  },
+  {
+    "index": "27",
+    "prefix": "🪨",
+    "name": "교감의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "com",
+    "amount": "1"
+  },
+  {
+    "index": "28",
+    "prefix": "🪨",
+    "name": "영혼의 정화석",
+    "kind": "reset",
+    "description": "육체에 귀속된 마석의 기운을 강제로 분리하여, 해당 능력치에 대한 육체의 기억을 지워버리는 신비한 돌입니다.",
+    "needrune": "2000",
+    "effect": "spr",
+    "amount": "1"
+  },
+  {
+    "index": "29",
+    "prefix": "🎁",
+    "name": "침식된 강철 보급상자",
+    "kind": "randombox",
+    "description": "거대 전투 전함 '퀄리아크 둥지'의 내부에서 발견된 낡은 보급 상자입니다.",
+    "needrune": "10000",
+    "effect": "",
+    "amount": ""
+  },
+  {
+    "index": "30",
+    "prefix": "❤️",
+    "name": "약초즙",
+    "kind": "recovery2",
+    "description": "생약초를 짓이겨 짜낸 진한 즙. 쓴맛이 강하지만 약효가 농축되어 있어 체력(HP)을 대폭 회복시켜 줍니다.",
+    "needrune": "300",
+    "effect": "hp",
+    "amount": "1000"
+  },
+  {
+    "index": "31",
+    "prefix": "💙",
+    "name": "허브티",
+    "kind": "recovery2",
+    "description": "신선한 마력 허브를 뜨거운 물에 우려낸 향긋한 차. 머리를 맑게 깨워주어 마력(MP)을 대폭 회복시켜 줍니다.",
+    "needrune": "500",
+    "effect": "mp",
+    "amount": "500"
+  },
+  {
+    "index": "32",
+    "prefix": "💛",
+    "name": "말린고기",
+    "kind": "recovery2",
+    "description": "소금을 쳐서 바짝 말려 보존성을 높인 고기. 질기지만 씹을수록 깊은 맛이 나며 기력(SP)을 대폭 회복시켜 줍니다.",
+    "needrune": "500",
+    "effect": "sp",
+    "amount": "500"
+  },
+  {
+    "index": "33",
+    "prefix": "💜",
+    "name": "버섯구이",
+    "kind": "recovery2",
+    "description": "불에 노릇노릇하게 잘 구워져 고소한 냄새를 풍기는 버섯. 섭취 시 속을 든든하게 채워주어 사냥의 피로를 가시게 합니다.",
+    "needrune": "500",
+    "effect": "dp",
+    "amount": "500"
+  },
+  {
+    "index": "34",
+    "prefix": "🎁",
+    "name": "회복상자2",
+    "kind": "package",
+    "description": "약초즙 허브티 말린고기 버섯구이이 담겨 있는 박스",
+    "needrune": "6000",
+    "effect": "",
+    "amount": ""
+  },
+  {
+    "index": "35",
+    "prefix": "🧭",
+    "name": "심연의 궤적 레이더",
+    "kind": "storyquest",
+    "description": "퀄리아크의 블랙박스를 해독하여 얻어낸 고대의 생체 항법 장치입니다.",
+    "needrune": "10000",
+    "effect": "",
+    "amount": "55"
+  },
+  {
+    "index": "36",
+    "prefix": "🎁",
+    "name": "파멸의 융합 보급상자",
+    "kind": "randombox",
+    "description": "기계성체의 메인 동력로에서 뿜어져 나오는 초고열과 맹독을 견뎌낸 특수 합금 보급상자입니다. 상자를 여는 순간 압도적인 에너지가 흘러나옵니다.",
+    "needrune": "10000",
+    "effect": "",
+    "amount": ""
+  },
+  {
+    "index": "37",
+    "prefix": "🧰",
+    "name": "휴대용 의체 조립 키트",
+    "kind": "mercenary",
+    "description": "데우스 의체 배양소에서 제작된 꼬마 기계 용병 '크로리'의 파츠가 담긴 키트입니다. 사용 시 꼬마 암살자 '크로리'를 용병으로 영입합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "1"
+  },
+  {
+    "index": "38",
+    "prefix": "📜",
+    "name": "유랑민의 장막 리콜",
+    "kind": "recall",
+    "description": "유랑민의 장막으로 순간 이동하는 주문서",
+    "needrune": "1200",
+    "effect": "",
+    "amount": "5"
+  },
+  {
+    "index": "39",
+    "prefix": "📜",
+    "name": "대지 수호자의 비전서",
+    "kind": "skill",
+    "description": "에르다인의 거대한 방패 방어술과 대지의 진동을 일으키는 포효가 기록된 낡고 무거운 비전서입니다. 사용 시 적의 시선을 끌고 지진을 일으키는 [철옹성의 포효] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "17"
+  },
+  {
+    "index": "41",
+    "prefix": "📜",
+    "name": "빛의 궤적 비전서",
+    "kind": "skill",
+    "description": "응축된 신성한 빛의 힘으로 적의 시야를 멀게 하는 헤르모인의 치명적인 창술이 담긴 고결한 교본입니다. 사용 시 적의 급소를 찔러 실명시키는 [섬광 찌르기] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "19"
+  },
+  {
+    "index": "42",
+    "prefix": "📜",
+    "name": "얼어붙은 서리꽃 악보",
+    "kind": "skill",
+    "description": "주변의 수분을 급속 냉각시키는 비스바덴의 혹한의 선율이 그려진 차가운 마법 악보입니다. 사용 시 적들을 꽁꽁 얼어붙게 만드는 [서리의 멜로디] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "21"
+  },
+  {
+    "index": "43",
+    "prefix": "📜",
+    "name": "쏟아지는 은하수 악보",
+    "kind": "skill",
+    "description": "쏟아지는 별빛의 궤적을 마법 선율로 형상화하는 이오스덴의 신비로운 악보입니다. 사용 시 아름다운 연주로 적의 행동을 둔화시키는 [별빛의 멜로디] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "23"
+  },
+  {
+    "index": "44",
+    "prefix": "📜",
+    "name": "칠흑의 암살 비전서",
+    "kind": "skill",
+    "description": "어둠의 기운을 담아 적의 운명을 끊어내는 바벨리안의 무자비한 암살술이 빽빽하게 기록된 검은 책입니다. 사용 시 적을 깊게 찔러 부패시키는 [파멸의 그림자] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "25"
+  },
+  {
+    "index": "45",
+    "prefix": "📜",
+    "name": "돌풍의 창술 비전서",
+    "kind": "skill",
+    "description": "창끝에 거센 나선형 기류를 휘감아 다수의 적을 관통하는 레안의 일격필살 창술 비급입니다. 사용 시 거센 돌풍과 함께 적을 꿰뚫는 [나선 꿰뚫기] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "27"
+  },
+  {
+    "index": "46",
+    "prefix": "📜",
+    "name": "광휘의 궁술 교본",
+    "kind": "skill",
+    "description": "별빛의 기운을 화살촉에 응축하여 적의 약점을 정확히 꿰뚫는 엘의 고위 궁술이 기록된 교본입니다. 사용 시 빛의 단발 화살을 저격하는 [루미너스 애로우] 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "29"
+  },
+  {
+    "index": "47",
+    "prefix": "🔮",
+    "name": "성수 루미의 교감석",
+    "kind": "summon",
+    "description": "성신의 숲에 깃든 맑은 별빛 기운이 하나로 응축된 영롱한 보석입니다. 신성한 사슴의 영혼과 깊이 교감하여 아군을 치유하는 [성수의 부름: 루미] 소환 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "6"
+  },
+  {
+    "index": "48",
+    "prefix": "📜",
+    "name": "뇌전의 에테르 구슬",
+    "kind": "summon",
+    "description": "대기 중의 에테르 마찰로 생성된 강력한 벼락이 거칠게 소용돌이치며 봉인된 유리 구슬입니다. 번개의 정령과 교감하여 [전리층 개방: 뇌전령] 소환 스킬을 습득합니다.",
+    "needrune": "100000",
+    "effect": "",
+    "amount": "7"
+  },
+  {
+    "index": "49",
+    "prefix": "🎣",
+    "name": "별빛 이슬 낚싯대",
+    "kind": "fishinglod",
+    "description": "맹독 늪지대에서 유일하게 맑은 기운을 머금은 '별빛 이슬 샘터' 주변의 영롱한 나뭇가지를 깎아 만든 낚싯대입니다.",
+    "needrune": "50000",
+    "effect": "sizerate",
+    "amount": "3"
+  },
+  {
+    "index": "50",
+    "prefix": "⚙️",
+    "name": "정화의 수정 릴",
+    "kind": "fishinggut",
+    "description": "샘물 바닥에서 오랜 세월 늪지대의 독기를 정화해 낸 투명한 수정을 정교하게 깎아 만든 릴입니다.",
+    "needrune": "50000",
+    "effect": "uniquerate",
+    "amount": "3"
+  },
+  {
+    "index": "51",
+    "prefix": "🐛",
+    "name": "반짝이는 별가루 루어",
+    "kind": "lure",
+    "description": "수면에 비친 별빛이 마력과 함께 결정화된 가루를 뭉쳐서 빚어낸 가짜 미끼입니다.",
+    "needrune": "50000",
+    "effect": "timeterm",
+    "amount": "2"
+  },
+  {
+    "index": "52",
+    "prefix": "🧵",
+    "name": "순수한 에테르 낚싯줄",
+    "kind": "fishinggut",
+    "description": "오염되지 않은 순수한 황금빛 에테르 마력을 가늘고 길게 뽑아내어 엮어 만든 투명한 낚싯줄입니다.",
+    "needrune": "50000",
+    "effect": "timeterm",
+    "amount": "2"
+  },
+  {
+    "index": "53",
+    "prefix": "📜",
+    "name": "러스트 하벤 리콜",
+    "kind": "recall",
+    "description": "러스트 라벤으로 순간 이동하는 주문서",
+    "needrune": "1500",
+    "effect": "",
+    "amount": "6"
+  },
+  {
+    "index": "54",
+    "prefix": "🍣",
+    "name": "손질된 생선",
+    "kind": "buff",
+    "description": "낚시로 잡은 물고기의 비늘과 내장을 깔끔하게 제거하여 신선한 횟감으로 만든 상태입니다. 바로 섭취 시 생생한 활력이 돌아 일시적으로 힘을 증가시켜 줍니다.",
+    "needrune": "5",
+    "effect": "str",
+    "amount": "1;100"
+  },
+  {
+    "index": "55",
+    "prefix": "🥩",
+    "name": "버터구이 생선 스테이크",
+    "kind": "buff",
+    "description": "버터의 풍미가 가득한 두툼한 생선 스테이크. 근육에 힘이 솟구쳐 일시적으로 힘(str)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "str",
+    "amount": "5;100"
+  },
+  {
+    "index": "56",
+    "prefix": "🍢",
+    "name": "소금 절임 생선 꼬치",
+    "kind": "buff",
+    "description": "단단한 나뭇가지에 생선을 꽂아 소금에 짭짤하게 구운 요리. 맷집이 강해져 일시적으로 체질(con)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "con",
+    "amount": "5;100"
+  },
+  {
+    "index": "57",
+    "prefix": "🥗",
+    "name": "올리브 베리 생선 샐러드",
+    "kind": "buff",
+    "description": "올리브유와 붉은 야생 베리를 곁들인 가벼운 생선 샐러드. 몸이 가벼워져 일시적으로 민첩(dex)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "dex",
+    "amount": "5;100"
+  },
+  {
+    "index": "58",
+    "prefix": "🍤",
+    "name": "형광 포자 생선 튀김",
+    "kind": "buff",
+    "description": "형광 버섯 포자를 튀김옷으로 입혀 바삭하게 튀겨낸 요리. 반사 신경이 예민해져 일시적으로 재주(agi)가 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "agi",
+    "amount": "5;100"
+  },
+  {
+    "index": "59",
+    "prefix": "🍲",
+    "name": "마력 잎사귀 생선 찜",
+    "kind": "buff",
+    "description": "마력 깃든 나뭇잎으로 생선을 감싸 쪄낸 요리. 머리가 맑아져 일시적으로 지능(int)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "int",
+    "amount": "5;100"
+  },
+  {
+    "index": "60",
+    "prefix": "🍛",
+    "name": "달콤한 수액 생선 조림",
+    "kind": "buff",
+    "description": "끈적한 수액과 설탕으로 달콤하게 조려낸 생선 요리. 기분 좋은 단맛에 일시적으로 운(luk)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "luk",
+    "amount": "5;100"
+  },
+  {
+    "index": "61",
+    "prefix": "🥣",
+    "name": "성휘의 이슬 생선 수프",
+    "kind": "buff",
+    "description": "성휘의 이슬을 넣어 끓인 맑고 신성한 수프. 자연의 흐름을 깊게 느껴 일시적으로 교감(com)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "com",
+    "amount": "5;100"
+  },
+  {
+    "index": "62",
+    "prefix": "🥘",
+    "name": "야생 이끼 생선 스튜",
+    "kind": "buff",
+    "description": "푹신한 야생 이끼를 듬뿍 넣어 끓여낸 든든한 스튜. 내면의 평온을 찾아 일시적으로 영혼(spr)이 크게 상승합니다.",
+    "needrune": "1000",
+    "effect": "spr",
+    "amount": "5;100"
+  },
+  {
+    "index": "63",
+    "prefix": "❤️",
+    "name": "변이 약초즙",
+    "kind": "recovery2",
+    "description": "약초즙에 변이 조직을 끓여낸 즙. 지독한 맛이 나지만 끊어졌던 근육마저 이어지며 체력(HP)을 폭발적으로 회복시킵니다.",
+    "needrune": "1000",
+    "effect": "hp",
+    "amount": "3000"
+  },
+  {
+    "index": "64",
+    "prefix": "💙",
+    "name": "발광 허브티",
+    "kind": "recovery2",
+    "description": "허브티에 변이 조직을 우려내어 강제로 뇌 신경을 일깨우는 기괴한 차. 한 모금만 마셔도 마력(MP)을 대폭 회복시킵니다.",
+    "needrune": "1500",
+    "effect": "mp",
+    "amount": "1500"
+  },
+  {
+    "index": "65",
+    "prefix": "💛",
+    "name": "폭주 육포",
+    "kind": "recovery2",
+    "description": "말린 고기에 변이 조직의 진액을 발라 구워낸 육포. 씹을수록 혈관에 기운이 솟구쳐 기력(SP)을 대폭 회복시킵니다.",
+    "needrune": "1500",
+    "effect": "sp",
+    "amount": "1500"
+  },
+  {
+    "index": "66",
+    "prefix": "💜",
+    "name": "몽환 버섯구이",
+    "kind": "recovery2",
+    "description": "버섯구이에 변이 조직의 독을 정제해 곁들인 요리. 은은하게 빛나는 버섯을 섭취하면 정신력(DP)을 대폭 회복시킵니다.",
+    "needrune": "1500",
+    "effect": "dp",
+    "amount": "1500"
+  },
+  {
+    "index": "67",
+    "prefix": "🧱",
+    "name": "원혼의 강철 보급상자",
+    "kind": "randombox",
+    "description": "원혼이 깃든 강철 제단' 최심부에서 발견된 묵직한 고철 상자. 검은 철 표면에 원혼의 사념이 서려 있으며, 강철 파편과 강화 재료가 담겨 있습니다.",
+    "needrune": "10000",
+    "effect": "",
+    "amount": ""
+  },
+  {
+    "index": "73",
+    "prefix": "🛰️",
+    "name": "해독된 산란장 좌표 칩",
+    "kind": "storyquest",
+    "description": "제네시스의 기록 소자에서 추출해낸 지도 데이터입니다.",
+    "needrune": "10000",
+    "effect": "",
+    "amount": "90"
+  }
+]

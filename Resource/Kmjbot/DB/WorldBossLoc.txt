@@ -1,0 +1,16 @@
+[
+  {
+    "city": "3",
+    "facility": "11",
+    "needrune": "50000",
+    "autosnmrate": "20",
+    "monsteridx": "9"
+  },
+  {
+    "city": "6",
+    "facility": "35",
+    "needrune": "1000000",
+    "autosnmrate": "10",
+    "monsteridx": "33"
+  }
+]

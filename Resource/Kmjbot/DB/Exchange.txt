@@ -1,0 +1,902 @@
+[
+  {
+    "kind": "WearItem",
+    "index": "9",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "10",
+    "defualtrune": "170000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "11",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "12",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "13",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "14",
+    "defualtrune": "5"
+  },
+  {
+    "kind": "WearItem",
+    "index": "15",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "16",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "17",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "18",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "19",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "20",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "21",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "22",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "23",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "24",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "25",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1",
+    "defualtrune": "50"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "2",
+    "defualtrune": "50"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "3",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4",
+    "defualtrune": "500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "5",
+    "defualtrune": "1500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "6",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "7",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "8",
+    "defualtrune": "500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "9",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "10",
+    "defualtrune": "3000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "11",
+    "defualtrune": "9000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "12",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "13",
+    "defualtrune": "150"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "14",
+    "defualtrune": "200"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "15",
+    "defualtrune": "250"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "16",
+    "defualtrune": "500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "17",
+    "defualtrune": "1500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "18",
+    "defualtrune": "3000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "19",
+    "defualtrune": "50000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "20",
+    "defualtrune": "150000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "21",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "22",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "23",
+    "defualtrune": "100000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "24",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "25",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "26",
+    "defualtrune": "1500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "27",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "28",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "29",
+    "defualtrune": "20000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "30",
+    "defualtrune": "70000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "31",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "32",
+    "defualtrune": "400000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "33",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "34",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "35",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "36",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "37",
+    "defualtrune": "80000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "38",
+    "defualtrune": "100000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "39",
+    "defualtrune": "150000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "40",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "41",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "42",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "43",
+    "defualtrune": "2000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "44",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "45",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "46",
+    "defualtrune": "30000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "47",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "48",
+    "defualtrune": "50000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "49",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "50",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "51",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "52",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1001",
+    "defualtrune": "5"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1002",
+    "defualtrune": "30"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1003",
+    "defualtrune": "300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1004",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1005",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1006",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1007",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1008",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1009",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1010",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1011",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1012",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "1013",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4001",
+    "defualtrune": "100"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4002",
+    "defualtrune": "300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4003",
+    "defualtrune": "500"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4004",
+    "defualtrune": "800"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4005",
+    "defualtrune": "1300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4006",
+    "defualtrune": "2000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4007",
+    "defualtrune": "2800"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4008",
+    "defualtrune": "3800"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4009",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4010",
+    "defualtrune": "8000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4011",
+    "defualtrune": "300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4012",
+    "defualtrune": "700"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4013",
+    "defualtrune": "1400"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4014",
+    "defualtrune": "3600"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4015",
+    "defualtrune": "5900"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4016",
+    "defualtrune": "8800"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4017",
+    "defualtrune": "12000"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4018",
+    "defualtrune": "16300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4019",
+    "defualtrune": "19900"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "4020",
+    "defualtrune": "21300"
+  },
+  {
+    "kind": "SundryItem",
+    "index": "10000",
+    "defualtrune": "1000000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "4",
+    "defualtrune": "3000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "11",
+    "defualtrune": "1000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "12",
+    "defualtrune": "2000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "13",
+    "defualtrune": "5000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "29",
+    "defualtrune": "10000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "34",
+    "defualtrune": "6000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "35",
+    "defualtrune": "20000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "36",
+    "defualtrune": "20000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "37",
+    "defualtrune": "20000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "39",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "41",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "42",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "43",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "44",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "45",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "46",
+    "defualtrune": "200000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "47",
+    "defualtrune": "250000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "48",
+    "defualtrune": "250000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "54",
+    "defualtrune": "25"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "55",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "56",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "57",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "58",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "59",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "60",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "61",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "62",
+    "defualtrune": "15000"
+  },
+  {
+    "kind": "FunctionalityItem",
+    "index": "67",
+    "defualtrune": "50000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "36",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "37",
+    "defualtrune": "170000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "38",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "39",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "40",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "41",
+    "defualtrune": "5"
+  },
+  {
+    "kind": "WearItem",
+    "index": "42",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "43",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "44",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "45",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "46",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "47",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "48",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "49",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "50",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "51",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "52",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "53",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "54",
+    "defualtrune": "170000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "55",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "56",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "57",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "58",
+    "defualtrune": "5"
+  },
+  {
+    "kind": "WearItem",
+    "index": "59",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "60",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "61",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "62",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "63",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "64",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "65",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "66",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "67",
+    "defualtrune": "300000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "68",
+    "defualtrune": "500000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "69",
+    "defualtrune": "500000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "70",
+    "defualtrune": "500000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "71",
+    "defualtrune": "500000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "72",
+    "defualtrune": "500000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "84",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "85",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "86",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "87",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "88",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "89",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "90",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "91",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "92",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "93",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "94",
+    "defualtrune": "120000"
+  },
+  {
+    "kind": "WearItem",
+    "index": "95",
+    "defualtrune": "120000"
+  }
+]

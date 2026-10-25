@@ -1,0 +1,1941 @@
+[
+  {
+    "index": "1",
+    "droprune": "12~17",
+    "name": "크롤러 스파인a",
+    "description": "[a타입] 곤충형 기계로봇으로 몸엔 핵이 달려 있고, 4개의 뾰족한 다리로 걷고 사람들을 공격한다.",
+    "ability": {
+      "attack": "45",
+      "magic": "0",
+      "defense": "16",
+      "atkspeed": "5",
+      "accuracy": "15",
+      "avoid": "8",
+      "critical": "5",
+      "hp": "280",
+      "mp": "0",
+      "sp": "0"
+    },
+    "skill": [],
+    "skillrate": "",
+    "exp": "1",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "2",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "2",
+    "droprune": "12~23",
+    "name": "크롤러 액산a",
+    "description": "[a타입] 두발로 걷고, 머리로 연상되는 부분에 핵이 있습니다. 날카로운 양손으로 사람들을 공격하는 개체입니다.",
+    "ability": {
+      "attack": "39",
+      "magic": "0",
+      "defense": "32",
+      "atkspeed": "4",
+      "accuracy": "12",
+      "avoid": "6",
+      "critical": "3",
+      "hp": "420",
+      "mp": "0",
+      "sp": "70"
+    },
+    "skill": [
+      "1000"
+    ],
+    "skillrate": "25",
+    "exp": "2",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "2",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "3",
+    "droprune": "17~18",
+    "name": "크롤러 글리아a",
+    "description": "[a타입] 날개 달린 거미형태의 기계로봇입니다. 몸통엔 핵이 달려있으며, 날아다니다가 자신의 촉수로 공격하는 개체 입니다.",
+    "ability": {
+      "attack": "55",
+      "magic": "0",
+      "defense": "20",
+      "atkspeed": "6",
+      "accuracy": "18",
+      "avoid": "12",
+      "critical": "8",
+      "hp": "320",
+      "mp": "0",
+      "sp": "60"
+    },
+    "skill": [
+      "1001"
+    ],
+    "skillrate": "35",
+    "exp": "2",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "2",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "4",
+    "droprune": "29~41",
+    "name": "엑스크롤러 뉴로고스a",
+    "description": "[a타입] 지네 모양의 거대 크롤러, 머리에 거대한 핵이 있다. 거대한 뾰족한 앞다리로 적을 공격한다.",
+    "ability": {
+      "attack": "72",
+      "magic": "55",
+      "defense": "36",
+      "atkspeed": "7",
+      "accuracy": "22",
+      "avoid": "15",
+      "critical": "12",
+      "hp": "850",
+      "mp": "150",
+      "sp": "120"
+    },
+    "skill": [
+      "1000",
+      "1002",
+      "1003"
+    ],
+    "skillrate": "40",
+    "exp": "10",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "2",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "3",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "5",
+    "droprune": "14~20",
+    "name": "크롤러 덴드라이트a",
+    "description": "[a타입] 보통 크롤러 보다 상당히 크기가 크고 장갑도 두껍다. 머리에 핵이 있고, 기계 촉수 다리로 걸어다니며, 양손은 거대한 말굽모양으로 적을 짓누른다.",
+    "ability": {
+      "attack": "56",
+      "magic": "0",
+      "defense": "45",
+      "atkspeed": "5",
+      "accuracy": "18",
+      "avoid": "10",
+      "critical": "5",
+      "hp": "600",
+      "mp": "0",
+      "sp": "100"
+    },
+    "skill": [
+      "1004"
+    ],
+    "skillrate": "30",
+    "exp": "3",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "2",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "6",
+    "droprune": "14~19",
+    "name": "크롤러 랑비에a",
+    "description": "[a타입] 땅강아지 형태의 크롤러. 머리 부분에 작은 핵이 있고, 크기는 조금 작지만 땅속에서 적을 기습하여 공격하는 타입",
+    "ability": {
+      "attack": "70",
+      "magic": "0",
+      "defense": "22",
+      "atkspeed": "9",
+      "accuracy": "25",
+      "avoid": "20",
+      "critical": "22",
+      "hp": "410",
+      "mp": "0",
+      "sp": "80"
+    },
+    "skill": [
+      "1005"
+    ],
+    "skillrate": "25",
+    "exp": "3",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "2",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "7",
+    "droprune": "13~19",
+    "name": "크롤러 리셉터a",
+    "description": "[a타입] 거대한 나방모양의 크롤러, 가슴엔 거대한 핵이 있고, 날아 다니며, 날개에서 산을 뿜어 공격하는 개체",
+    "ability": {
+      "attack": "42",
+      "magic": "48",
+      "defense": "24",
+      "atkspeed": "7",
+      "accuracy": "22",
+      "avoid": "14",
+      "critical": "10",
+      "hp": "480",
+      "mp": "90",
+      "sp": "0"
+    },
+    "skill": [
+      "1006"
+    ],
+    "skillrate": "35",
+    "exp": "4",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "2",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "8",
+    "droprune": "49~74",
+    "name": "엑스크롤러 시냅시스a",
+    "description": "[a타입] 매우 거대한 4발 달린 짐승의 모습을 하고 있다. 배부분엔 거대한 핵이 있고, 몸통에는 매우긴 2개의 뾰족한 촉수와 자신의 다리로 적을 공격한다.",
+    "ability": {
+      "attack": "95",
+      "magic": "40",
+      "defense": "65",
+      "atkspeed": "8",
+      "accuracy": "32",
+      "avoid": "18",
+      "critical": "15",
+      "hp": "1700",
+      "mp": "100",
+      "sp": "200"
+    },
+    "skill": [
+      "1000",
+      "1002",
+      "1005"
+    ],
+    "skillrate": "45",
+    "exp": "12",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "2",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "3",
+        "count": "3",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "9",
+    "droprune": "17~26",
+    "name": "크롤러 소우마 3형",
+    "description": "[3형태] 유일한 인간형 크롤러로 상당히 강력한 신체를 보유하고 있다. 어께인 거대한 촉수와 양팔로 적을 섬멸한다.",
+    "ability": {
+      "attack": "185",
+      "magic": "140",
+      "defense": "130",
+      "atkspeed": "15",
+      "accuracy": "45",
+      "avoid": "35",
+      "critical": "30",
+      "hp": "250000",
+      "mp": "999",
+      "sp": "999"
+    },
+    "skill": [
+      "1007",
+      "1008"
+    ],
+    "skillrate": "43",
+    "exp": "1",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "5",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "2",
+        "count": "5",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "3",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "6",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "10",
+    "droprune": "258~409",
+    "name": "엑스크롤러 퀄리아크a",
+    "description": "[a타입] 매우 거대한 크기의 전투 전함이다. 엄청난 방어력과 원거리 공격으로 적을 섬멸하는 능력을 보유한다.",
+    "ability": {
+      "attack": "125",
+      "magic": "80",
+      "defense": "90",
+      "atkspeed": "11",
+      "accuracy": "38",
+      "avoid": "22",
+      "critical": "18",
+      "hp": "5230",
+      "mp": "300",
+      "sp": "400"
+    },
+    "skill": [
+      "1009",
+      "1010"
+    ],
+    "skillrate": "40",
+    "exp": "15",
+    "dropItem": [
+      {
+        "itemIdx": "1",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "2",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "3",
+        "count": "3",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "5",
+        "count": "3",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "22",
+        "count": "1",
+        "droprate": "20"
+      }
+    ]
+  },
+  {
+    "index": "11",
+    "droprune": "17~23",
+    "name": "크롤러 스파인b",
+    "description": "[b타입] 곤충형 기계로봇으로 몸엔 핵이 달려 있고, 4개의 뾰족한 다리로 걷고 사람들을 공격한다.",
+    "ability": {
+      "attack": "100",
+      "magic": "0",
+      "defense": "45",
+      "atkspeed": "10",
+      "accuracy": "35",
+      "avoid": "25",
+      "critical": "18",
+      "hp": "600",
+      "mp": "0",
+      "sp": "180"
+    },
+    "skill": [
+      "1011"
+    ],
+    "skillrate": "30",
+    "exp": "6",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "14",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "12",
+    "droprune": "23~27",
+    "name": "크롤러 액산b",
+    "description": "[b타입] 두발로 걷고, 머리로 연상되는 부분에 핵이 있습니다. 날카로운 양손으로 사람들을 공격하는 개체입니다.",
+    "ability": {
+      "attack": "85",
+      "magic": "0",
+      "defense": "85",
+      "atkspeed": "6",
+      "accuracy": "30",
+      "avoid": "20",
+      "critical": "12",
+      "hp": "800",
+      "mp": "0",
+      "sp": "300"
+    },
+    "skill": [
+      "1012"
+    ],
+    "skillrate": "40",
+    "exp": "6",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "14",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "13",
+    "droprune": "21~28",
+    "name": "크롤러 글리아b",
+    "description": "[b타입] 날개 달린 거미형태의 기계로봇입니다. 몸통엔 핵이 달려있으며, 날아다니다가 자신의 촉수로 공격하는 개체 입니다.",
+    "ability": {
+      "attack": "110",
+      "magic": "0",
+      "defense": "55",
+      "atkspeed": "11",
+      "accuracy": "40",
+      "avoid": "35",
+      "critical": "20",
+      "hp": "850",
+      "mp": "0",
+      "sp": "280"
+    },
+    "skill": [
+      "1013"
+    ],
+    "skillrate": "50",
+    "exp": "9",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "14",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "14",
+    "droprune": "127~174",
+    "name": "엑스크롤러 뉴로고스b",
+    "description": "[b타입] 지네 모양의 거대 크롤러, 머리에 거대한 핵이 있다. 거대한 뾰족한 앞다리로 적을 공격한다.",
+    "ability": {
+      "attack": "160",
+      "magic": "130",
+      "defense": "100",
+      "atkspeed": "14",
+      "accuracy": "55",
+      "avoid": "45",
+      "critical": "30",
+      "hp": "2600",
+      "mp": "700",
+      "sp": "500"
+    },
+    "skill": [
+      "1014",
+      "1015"
+    ],
+    "skillrate": "60",
+    "exp": "15",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "14",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "15",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "16"
+      },
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "droprate": "9"
+      }
+    ]
+  },
+  {
+    "index": "15",
+    "droprune": "25~36",
+    "name": "크롤러 덴드라이트b",
+    "description": "[b타입] 보통 크롤러 보다 상당히 크기가 크고 장갑도 두껍다. 머리에 핵이 있고, 기계 촉수 다리로 걸어다니며, 양손은 거대한 말굽모양으로 적을 짓누른다.",
+    "ability": {
+      "attack": "125",
+      "magic": "0",
+      "defense": "95",
+      "atkspeed": "6",
+      "accuracy": "35",
+      "avoid": "15",
+      "critical": "8",
+      "hp": "1200",
+      "mp": "0",
+      "sp": "250"
+    },
+    "skill": [
+      "1016"
+    ],
+    "skillrate": "35",
+    "exp": "8",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "14",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "16",
+    "droprune": "20~40",
+    "name": "크롤러 랑비에b",
+    "description": "[b타입] 땅강아지 형태의 크롤러. 머리 부분에 작은 핵이 있고, 크기는 조금 작지만 땅속에서 적을 기습하여 공격하는 타입",
+    "ability": {
+      "attack": "145",
+      "magic": "0",
+      "defense": "60",
+      "atkspeed": "13",
+      "accuracy": "55",
+      "avoid": "40",
+      "critical": "35",
+      "hp": "1000",
+      "mp": "0",
+      "sp": "200"
+    },
+    "skill": [
+      "1017"
+    ],
+    "skillrate": "42",
+    "exp": "8",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "14",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "17",
+    "droprune": "24~42",
+    "name": "크롤러 리셉터b",
+    "description": "[b타입] 거대한 나방모양의 크롤러, 가슴엔 거대한 핵이 있고, 날아 다니며, 날개에서 산을 뿜어 공격하는 개체",
+    "ability": {
+      "attack": "90",
+      "magic": "135",
+      "defense": "70",
+      "atkspeed": "10",
+      "accuracy": "45",
+      "avoid": "30",
+      "critical": "15",
+      "hp": "1105",
+      "mp": "300",
+      "sp": "0"
+    },
+    "skill": [
+      "1018"
+    ],
+    "skillrate": "50",
+    "exp": "13",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "14",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "18",
+    "droprune": "150~213",
+    "name": "엑스크롤러 시냅시스b",
+    "description": "[b타입] 매우 거대한 4발 달린 짐승의 모습을 하고 있다. 배부분엔 거대한 핵이 있고, 몸통에는 매우긴 2개의 뾰족한 촉수와 자신의 다리로 적을 공격한다.",
+    "ability": {
+      "attack": "188",
+      "magic": "147",
+      "defense": "115",
+      "atkspeed": "14",
+      "accuracy": "60",
+      "avoid": "45",
+      "critical": "25",
+      "hp": "3100",
+      "mp": "800",
+      "sp": "900"
+    },
+    "skill": [
+      "1019",
+      "1020",
+      "1021"
+    ],
+    "skillrate": "55",
+    "exp": "23",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "14",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "15",
+        "count": "3",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "19",
+    "droprune": "350~500",
+    "name": "엑스크롤러 퀄리아크b",
+    "description": "[b타입] 매우 거대한 크기의 전투 전함이다. 엄청난 방어력과 원거리 공격으로 적을 섬멸하는 능력을 보유한다.",
+    "ability": {
+      "attack": "360",
+      "magic": "320",
+      "defense": "200",
+      "atkspeed": "25",
+      "accuracy": "45",
+      "avoid": "34",
+      "critical": "37",
+      "hp": "9403",
+      "mp": "2000",
+      "sp": "2000"
+    },
+    "skill": [
+      "1022",
+      "1023"
+    ],
+    "skillrate": "55",
+    "exp": "45",
+    "dropItem": [
+      {
+        "itemIdx": "13",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "14",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "15",
+        "count": "3",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "16",
+        "count": "2",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "18",
+        "count": "3",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "23",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "20",
+    "droprune": "45~67",
+    "name": "크롤러 스파인z",
+    "description": "[z타입] 최정예 살육 병기로 진화한 스파인입니다. 모든 공격이 눈에 보이지 않을 만큼 빠릅니다.",
+    "ability": {
+      "attack": "270",
+      "magic": "0",
+      "defense": "120",
+      "atkspeed": "15",
+      "accuracy": "40",
+      "avoid": "30",
+      "critical": "15",
+      "hp": "4500",
+      "mp": "0",
+      "sp": "350"
+    },
+    "skill": [
+      "1024"
+    ],
+    "skillrate": "40",
+    "exp": "12",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "25",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "21",
+    "droprune": "63~88",
+    "name": "크롤러 액산z",
+    "description": "[z타입] 에테르로 코팅된 압도적인 장갑을 두른 액산입니다. 웬만한 공격은 흠집조차 나지 않습니다.",
+    "ability": {
+      "attack": "240",
+      "magic": "0",
+      "defense": "200",
+      "atkspeed": "12",
+      "accuracy": "35",
+      "avoid": "25",
+      "critical": "10",
+      "hp": "6500",
+      "mp": "0",
+      "sp": "400"
+    },
+    "skill": [
+      "1025"
+    ],
+    "skillrate": "40",
+    "exp": "14",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "25",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "22",
+    "droprune": "57~91",
+    "name": "크롤러 글리아z",
+    "description": "[z타입] 사각지대 없는 공중의 악마. 촉수에 닿기만 해도 온몸이 중독되어 썩어들어갑니다.",
+    "ability": {
+      "attack": "320",
+      "magic": "0",
+      "defense": "140",
+      "atkspeed": "18",
+      "accuracy": "45",
+      "avoid": "40",
+      "critical": "20",
+      "hp": "6500",
+      "mp": "0",
+      "sp": "350"
+    },
+    "skill": [
+      "1026"
+    ],
+    "skillrate": "40",
+    "exp": "15",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "25",
+        "count": "1",
+        "droprate": "25"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.5"
+      }
+    ]
+  },
+  {
+    "index": "23",
+    "droprune": "210~250",
+    "name": "엑스크롤러 뉴로고스z",
+    "description": "[z타입] 초거대 지네 군체의 정점. 이 녀석이 울부짖으면 주변의 모든 공기가 얼어붙습니다.",
+    "ability": {
+      "attack": "430",
+      "magic": "350",
+      "defense": "270",
+      "atkspeed": "20",
+      "accuracy": "55",
+      "avoid": "45",
+      "critical": "25",
+      "hp": "19000",
+      "mp": "1500",
+      "sp": "1000"
+    },
+    "skill": [
+      "1027",
+      "1033",
+      "1034"
+    ],
+    "skillrate": "50",
+    "exp": "40",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "25",
+        "count": "3",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "26",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "16"
+      },
+      {
+        "itemIdx": "29",
+        "count": "1",
+        "droprate": "9"
+      }
+    ]
+  },
+  {
+    "index": "24",
+    "droprune": "77~89",
+    "name": "크롤러 덴드라이트z",
+    "description": "[z타입] 대지를 부수는 무자비한 분쇄기. 거대한 집게에 잡히면 뼈도 추리지 못합니다.",
+    "ability": {
+      "attack": "350",
+      "magic": "0",
+      "defense": "240",
+      "atkspeed": "14",
+      "accuracy": "45",
+      "avoid": "20",
+      "critical": "15",
+      "hp": "9500",
+      "mp": "0",
+      "sp": "550"
+    },
+    "skill": [
+      "1028"
+    ],
+    "skillrate": "40",
+    "exp": "19",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "25",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "25",
+    "droprune": "68~95",
+    "name": "크롤러 랑비에z",
+    "description": "[z타입] 심연의 암살자. 존재를 알아챘을 때는 이미 랑비에의 꼬리가 심장을 관통한 뒤입니다.",
+    "ability": {
+      "attack": "430",
+      "magic": "0",
+      "defense": "150",
+      "atkspeed": "22",
+      "accuracy": "60",
+      "avoid": "50",
+      "critical": "30",
+      "hp": "8500",
+      "mp": "0",
+      "sp": "500"
+    },
+    "skill": [
+      "1029"
+    ],
+    "skillrate": "40",
+    "exp": "21",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "25",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "26",
+    "droprune": "72~93",
+    "name": "크롤러 리셉터z",
+    "description": "[z타입] 맹독과 지옥불이 융합된 비행 생명체. 펄럭일 때마다 재앙의 불씨가 흩날립니다.",
+    "ability": {
+      "attack": "200",
+      "magic": "380",
+      "defense": "180",
+      "atkspeed": "16",
+      "accuracy": "50",
+      "avoid": "35",
+      "critical": "15",
+      "hp": "9000",
+      "mp": "700",
+      "sp": "0"
+    },
+    "skill": [
+      "1030"
+    ],
+    "skillrate": "40",
+    "exp": "20",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "25",
+        "count": "2",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "26",
+        "count": "1",
+        "droprate": "17"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "droprate": "0.8"
+      }
+    ]
+  },
+  {
+    "index": "27",
+    "droprune": "250~360",
+    "name": "엑스크롤러 시냅시스z",
+    "description": "[z타입] 모든 크롤러 군체의 행동을 통제하는 진정한 군단장. 걸음마다 지진이 일어납니다.",
+    "ability": {
+      "attack": "550",
+      "magic": "430",
+      "defense": "380",
+      "atkspeed": "24",
+      "accuracy": "65",
+      "avoid": "45",
+      "critical": "30",
+      "hp": "28000",
+      "mp": "1700",
+      "sp": "1500"
+    },
+    "skill": [
+      "1031",
+      "1035",
+      "1036"
+    ],
+    "skillrate": "55",
+    "exp": "62",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "25",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "26",
+        "count": "3",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "27",
+        "count": "1",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "29",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "29",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "28",
+    "droprune": "800~1000",
+    "name": "엑스크롤러 퀄리아크z",
+    "description": "[z타입] 강철 심연을 초월한 재앙의 거대 전함. 마주치는 것만으로도 돌처럼 굳어버리는 멸망의 상징입니다.",
+    "ability": {
+      "attack": "780",
+      "magic": "700",
+      "defense": "480",
+      "atkspeed": "15",
+      "accuracy": "55",
+      "avoid": "20",
+      "critical": "20",
+      "hp": "35000",
+      "mp": "2000",
+      "sp": "2000"
+    },
+    "skill": [
+      "1032",
+      "1037",
+      "1038"
+    ],
+    "skillrate": "60",
+    "exp": "96",
+    "dropItem": [
+      {
+        "itemIdx": "24",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "25",
+        "count": "5",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "26",
+        "count": "3",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "27",
+        "count": "2",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "29",
+        "count": "3",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "23",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "29",
+    "droprune": "65~90",
+    "name": "맹독 진흙 덩어리",
+    "description": "부해의 썩은 에테르와 독 진흙이 뭉쳐 생명력을 얻은 점액질 괴물",
+    "ability": {
+      "attack": "180",
+      "magic": "390",
+      "defense": "250",
+      "atkspeed": "15",
+      "accuracy": "45",
+      "avoid": "22",
+      "critical": "12",
+      "hp": "10500",
+      "mp": "700",
+      "sp": "0"
+    },
+    "skill": [
+      "1039"
+    ],
+    "skillrate": "40",
+    "exp": "18",
+    "dropItem": [
+      {
+        "itemIdx": "34",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "34",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "30",
+    "droprune": "70~95",
+    "name": "부해의 포식 덩굴",
+    "description": "늪지대의 맹독을 머금고 기괴하게 자라난 식충 식물의 흉폭한 촉수",
+    "ability": {
+      "attack": "420",
+      "magic": "0",
+      "defense": "160",
+      "atkspeed": "19",
+      "accuracy": "60",
+      "avoid": "42",
+      "critical": "28",
+      "hp": "9500",
+      "mp": "0",
+      "sp": "600"
+    },
+    "skill": [
+      "1040"
+    ],
+    "skillrate": "40",
+    "exp": "19",
+    "dropItem": [
+      {
+        "itemIdx": "35",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "35",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "35",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "31",
+    "droprune": "80~105",
+    "name": "스크랩 헌터 크랩",
+    "description": "파괴된 하급 크롤러의 날카로운 장갑판을 뒤집어쓰고 다니는 거대한 늪지 소라게",
+    "ability": {
+      "attack": "490",
+      "magic": "0",
+      "defense": "220",
+      "atkspeed": "16",
+      "accuracy": "55",
+      "avoid": "28",
+      "critical": "40",
+      "hp": "8500",
+      "mp": "0",
+      "sp": "650"
+    },
+    "skill": [
+      "1041"
+    ],
+    "skillrate": "40",
+    "exp": "21",
+    "dropItem": [
+      {
+        "itemIdx": "36",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "36",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "32",
+    "droprune": "400~500",
+    "name": "오염된 에테르의 망령",
+    "description": "타락한 마력과 인간의 탐욕으로 인해 끔찍하게 변이되어버린 거대 원혼 (정예 보스)",
+    "ability": {
+      "attack": "440",
+      "magic": "520",
+      "defense": "320",
+      "atkspeed": "24",
+      "accuracy": "68",
+      "avoid": "45",
+      "critical": "30",
+      "hp": "28000",
+      "mp": "1500",
+      "sp": "1000"
+    },
+    "skill": [
+      "1042",
+      "1043"
+    ],
+    "skillrate": "55",
+    "exp": "65",
+    "dropItem": [
+      {
+        "itemIdx": "37",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "37",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "37",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "33",
+    "droprune": "500~1000",
+    "name": "크롤러 소우마 1형",
+    "description": "[1형태] 인간의 형태를 띤 소우마의 초기 형태. 불완전하지만 무자비한 살육 본능과 압도적인 힘을 자랑합니다.",
+    "ability": {
+      "attack": "980",
+      "magic": "840",
+      "defense": "720",
+      "atkspeed": "44",
+      "accuracy": "85",
+      "avoid": "50",
+      "critical": "63",
+      "hp": "500000",
+      "mp": "5000",
+      "sp": "3000"
+    },
+    "skill": [
+      "1044",
+      "1045"
+    ],
+    "skillrate": "66",
+    "exp": "50",
+    "dropItem": [
+      {
+        "itemIdx": "23",
+        "count": "1",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "41",
+        "count": "1",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "42",
+        "count": "1",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "43",
+        "count": "1",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "46",
+        "count": "1",
+        "droprate": "10"
+      }
+    ]
+  },
+  {
+    "index": "34",
+    "droprune": "100~130",
+    "name": "오염된 고철 슬라임",
+    "description": "부해의 맹독과 날카로운 고철 조각들이 뒤섞여 융합된 치명적인 슬라임입니다.",
+    "ability": {
+      "attack": "520",
+      "magic": "200",
+      "defense": "280",
+      "atkspeed": "24",
+      "accuracy": "65",
+      "avoid": "35",
+      "critical": "20",
+      "hp": "13500",
+      "mp": "500",
+      "sp": "0"
+    },
+    "skill": [
+      "1046"
+    ],
+    "skillrate": "30",
+    "exp": "25",
+    "dropItem": [
+      {
+        "itemIdx": "40",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "40",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "40",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "35",
+    "droprune": "110~140",
+    "name": "돌연변이 톱니 쥐",
+    "description": "늪지대의 고철을 파먹고 자라나, 등에 날카로운 기계 톱니가 돋아난 거대하고 민첩한 쥐입니다.",
+    "ability": {
+      "attack": "580",
+      "magic": "0",
+      "defense": "250",
+      "atkspeed": "30",
+      "accuracy": "75",
+      "avoid": "55",
+      "critical": "45",
+      "hp": "11000",
+      "mp": "0",
+      "sp": "500"
+    },
+    "skill": [
+      "1047"
+    ],
+    "skillrate": "35",
+    "exp": "26",
+    "dropItem": [
+      {
+        "itemIdx": "41",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "41",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "41",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "36",
+    "droprune": "120~160",
+    "name": "부식된 엑스 스캐빈저",
+    "description": "스캐빈저들이 버린 장비와 고철을 주워 입고 폭주해버린 흉포한 하급 크롤러 변종입니다.",
+    "ability": {
+      "attack": "650",
+      "magic": "0",
+      "defense": "320",
+      "atkspeed": "26",
+      "accuracy": "72",
+      "avoid": "40",
+      "critical": "35",
+      "hp": "14000",
+      "mp": "0",
+      "sp": "800"
+    },
+    "skill": [
+      "1048"
+    ],
+    "skillrate": "40",
+    "exp": "28",
+    "dropItem": [
+      {
+        "itemIdx": "42",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "42",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "42",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "37",
+    "droprune": "150~190",
+    "name": "타락한 에테르 융합체",
+    "description": "엑스크롤러에서 흘러나온 황금빛 에테르가 늪지대의 독기와 반응하여 태어난 기괴한 마력 덩어리입니다.",
+    "ability": {
+      "attack": "450",
+      "magic": "680",
+      "defense": "300",
+      "atkspeed": "28",
+      "accuracy": "82",
+      "avoid": "30",
+      "critical": "25",
+      "hp": "12500",
+      "mp": "1200",
+      "sp": "0"
+    },
+    "skill": [
+      "1049"
+    ],
+    "skillrate": "45",
+    "exp": "30",
+    "dropItem": [
+      {
+        "itemIdx": "43",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "43",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "43",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "5"
+      }
+    ]
+  },
+  {
+    "index": "38",
+    "droprune": "500~800",
+    "name": "타락한 강철 정령",
+    "description": "러스트 하벤의 스캐빈저 길드가 가장 두려워하는, 거대한 강철과 부해의 원혼이 융합된 변이체입니다.",
+    "ability": {
+      "attack": "820",
+      "magic": "750",
+      "defense": "550",
+      "atkspeed": "32",
+      "accuracy": "88",
+      "avoid": "52",
+      "critical": "42",
+      "hp": "45000",
+      "mp": "2500",
+      "sp": "2000"
+    },
+    "skill": [
+      "1050",
+      "1051"
+    ],
+    "skillrate": "55",
+    "exp": "80",
+    "dropItem": [
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "39",
+    "droprune": "800~1200",
+    "name": "제로크롤러 제네시스",
+    "description": "모든 크롤러들의 기원이자 설계도를 품고 있는 태초의 기계 생명체. 침식된 부해 중심부에서 끊임없이 에테르를 흡수하며 새로운 크롤러 군체를 토해내는 만악의 근원입니다.",
+    "ability": {
+      "attack": "900",
+      "magic": "1300",
+      "defense": "700",
+      "atkspeed": "40",
+      "accuracy": "100",
+      "avoid": "45",
+      "critical": "35",
+      "hp": "65000",
+      "mp": "6000",
+      "sp": "6000"
+    },
+    "skill": [
+      "1052",
+      "1053",
+      "1054"
+    ],
+    "skillrate": "66",
+    "exp": "120",
+    "dropItem": [
+      {
+        "itemIdx": "49",
+        "count": "1",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "50",
+        "count": "1",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "23",
+        "count": "1",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "6",
+        "count": "1",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "46",
+        "count": "1",
+        "droprate": "8"
+      }
+    ]
+  }
+]

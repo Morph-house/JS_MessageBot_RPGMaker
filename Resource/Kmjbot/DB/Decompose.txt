@@ -1,0 +1,32 @@
+[
+  {
+    "grade": "US",
+    "itemidx": "12",
+    "count": "1~2"
+  },
+  {
+    "grade": "SS",
+    "itemidx": "11",
+    "count": "1~2"
+  },
+  {
+    "grade": "S",
+    "itemidx": "10",
+    "count": "1~2"
+  },
+  {
+    "grade": "A",
+    "itemidx": "9",
+    "count": "1~4"
+  },
+  {
+    "grade": "B",
+    "itemidx": "8",
+    "count": "1~4"
+  },
+  {
+    "grade": "C",
+    "itemidx": "8",
+    "count": "1~2"
+  }
+]

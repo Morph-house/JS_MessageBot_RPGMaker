@@ -1,0 +1,479 @@
+[
+  {
+    "index": "1",
+    "nation": "1",
+    "city": "1",
+    "facility": "2",
+    "type": "conversation",
+    "job": "검사",
+    "character": "아우람"
+  },
+  {
+    "index": "2",
+    "nation": "1",
+    "city": "1",
+    "facility": "3",
+    "type": "conversation",
+    "job": "창술사",
+    "character": "닝기루스"
+  },
+  {
+    "index": "3",
+    "nation": "1",
+    "city": "1",
+    "facility": "6",
+    "type": "conversation",
+    "job": "무녀",
+    "character": "이브"
+  },
+  {
+    "index": "4",
+    "nation": "1",
+    "city": "1",
+    "facility": "4",
+    "type": "conversation",
+    "job": "상점주인",
+    "character": "에일"
+  },
+  {
+    "index": "5",
+    "nation": "1",
+    "city": "1",
+    "facility": "5",
+    "type": "conversation",
+    "job": "상점주인",
+    "character": "살몬"
+  },
+  {
+    "index": "6",
+    "nation": "1",
+    "city": "2",
+    "facility": "8",
+    "type": "conversation",
+    "job": "대장장이",
+    "character": "벤"
+  },
+  {
+    "index": "7",
+    "nation": "1",
+    "city": "2",
+    "facility": "9",
+    "type": "conversation",
+    "job": "길드원",
+    "character": "리리"
+  },
+  {
+    "index": "8",
+    "nation": "1",
+    "city": "2",
+    "facility": "9",
+    "type": "conversation",
+    "job": "길드장",
+    "character": "로베르트"
+  },
+  {
+    "index": "9",
+    "nation": "1",
+    "city": "2",
+    "facility": "10",
+    "type": "conversation",
+    "job": "광부",
+    "character": "엘런"
+  },
+  {
+    "index": "10",
+    "nation": "1",
+    "city": "3",
+    "facility": "13",
+    "type": "conversation",
+    "job": "요정",
+    "character": "리스"
+  },
+  {
+    "index": "11",
+    "nation": "1",
+    "city": "3",
+    "facility": "14",
+    "type": "conversation",
+    "job": "무녀",
+    "character": "이브"
+  },
+  {
+    "index": "12",
+    "nation": "1",
+    "city": "3",
+    "facility": "14",
+    "type": "conversation",
+    "job": "검사",
+    "character": "아우람"
+  },
+  {
+    "index": "13",
+    "nation": "1",
+    "city": "3",
+    "facility": "14",
+    "type": "conversation",
+    "job": "창술사",
+    "character": "닝기루스"
+  },
+  {
+    "index": "14",
+    "nation": "1",
+    "city": "3",
+    "facility": "14",
+    "type": "conversation",
+    "job": "수호룡",
+    "character": "임두크"
+  },
+  {
+    "index": "15",
+    "nation": "1",
+    "city": "3",
+    "facility": "12",
+    "type": "conversation",
+    "job": "낚시꾼",
+    "character": "카이"
+  },
+  {
+    "index": "16",
+    "nation": "1",
+    "city": "3",
+    "facility": "15",
+    "type": "conversation",
+    "job": "수상한 상인",
+    "character": "???"
+  },
+  {
+    "index": "17",
+    "nation": "1",
+    "city": "4",
+    "facility": "7",
+    "type": "conversation",
+    "job": "요정",
+    "character": "리스"
+  },
+  {
+    "index": "18",
+    "nation": "1",
+    "city": "4",
+    "facility": "7",
+    "type": "conversation",
+    "job": "성잔신악",
+    "character": "이브"
+  },
+  {
+    "index": "19",
+    "nation": "1",
+    "city": "4",
+    "facility": "7",
+    "type": "conversation",
+    "job": "성잔검사",
+    "character": "아우람"
+  },
+  {
+    "index": "20",
+    "nation": "1",
+    "city": "4",
+    "facility": "7",
+    "type": "conversation",
+    "job": "성잔전사",
+    "character": "닝기루스"
+  },
+  {
+    "index": "21",
+    "nation": "1",
+    "city": "4",
+    "facility": "7",
+    "type": "conversation",
+    "job": "성잔용",
+    "character": "임두크"
+  },
+  {
+    "index": "22",
+    "nation": "1",
+    "city": "4",
+    "facility": "9",
+    "type": "conversation",
+    "job": "길드원",
+    "character": "루루"
+  },
+  {
+    "index": "23",
+    "nation": "1",
+    "city": "4",
+    "facility": "9",
+    "type": "conversation",
+    "job": "길드장",
+    "character": "세리오스"
+  },
+  {
+    "index": "24",
+    "nation": "1",
+    "city": "4",
+    "facility": "17",
+    "type": "conversation",
+    "job": "투기장 안내원",
+    "character": "발레리아"
+  },
+  {
+    "index": "25",
+    "nation": "1",
+    "city": "4",
+    "facility": "16",
+    "type": "conversation",
+    "job": "카지노 딜러",
+    "character": "루시엔"
+  },
+  {
+    "index": "26",
+    "nation": "1",
+    "city": "4",
+    "facility": "8",
+    "type": "conversation",
+    "job": "대장장이",
+    "character": "발칸"
+  },
+  {
+    "index": "27",
+    "nation": "1",
+    "city": "4",
+    "facility": "21",
+    "type": "conversation",
+    "job": "함선 선장",
+    "character": "바르토"
+  },
+  {
+    "index": "28",
+    "nation": "1000",
+    "city": "1000",
+    "facility": "14",
+    "type": "conversation",
+    "job": "요정",
+    "character": "리스"
+  },
+  {
+    "index": "29",
+    "nation": "1000",
+    "city": "1000",
+    "facility": "21",
+    "type": "conversation",
+    "job": "함선 성장",
+    "character": "바르토"
+  },
+  {
+    "index": "30",
+    "nation": "1000",
+    "city": "1000",
+    "facility": "22",
+    "type": "conversation",
+    "job": "마더 AI",
+    "character": "퀄리아"
+  },
+  {
+    "index": "31",
+    "nation": "2",
+    "city": "5",
+    "facility": "23",
+    "type": "conversation",
+    "job": "요정",
+    "character": "리스"
+  },
+  {
+    "index": "32",
+    "nation": "2",
+    "city": "5",
+    "facility": "23",
+    "type": "conversation",
+    "job": "성잔신악",
+    "character": "이브"
+  },
+  {
+    "index": "33",
+    "nation": "2",
+    "city": "5",
+    "facility": "23",
+    "type": "conversation",
+    "job": "성잔검사",
+    "character": "아우람"
+  },
+  {
+    "index": "34",
+    "nation": "2",
+    "city": "5",
+    "facility": "23",
+    "type": "conversation",
+    "job": "성잔전사",
+    "character": "닝기루스"
+  },
+  {
+    "index": "35",
+    "nation": "2",
+    "city": "5",
+    "facility": "23",
+    "type": "conversation",
+    "job": "성잔용",
+    "character": "임두크"
+  },
+  {
+    "index": "36",
+    "nation": "2",
+    "city": "5",
+    "facility": "24",
+    "type": "conversation",
+    "job": "떠돌이 상인",
+    "character": "보리스"
+  },
+  {
+    "index": "37",
+    "nation": "2",
+    "city": "5",
+    "facility": "25",
+    "type": "conversation",
+    "job": "고철 무기상",
+    "character": "라몬"
+  },
+  {
+    "index": "38",
+    "nation": "2",
+    "city": "5",
+    "facility": "26",
+    "type": "conversation",
+    "job": "붉은 치마의 무희",
+    "character": "일리야"
+  },
+  {
+    "index": "39",
+    "nation": "2",
+    "city": "5",
+    "facility": "26",
+    "type": "conversation",
+    "job": "눈먼 음유시인",
+    "character": "호메로스"
+  },
+  {
+    "index": "40",
+    "nation": "2",
+    "city": "5",
+    "facility": "27",
+    "type": "conversation",
+    "job": "비전 주술사",
+    "character": "벨라도나"
+  },
+  {
+    "index": "41",
+    "nation": "2",
+    "city": "5",
+    "facility": "28",
+    "type": "conversation",
+    "job": "기괴한 연금술사",
+    "character": "실비아"
+  },
+  {
+    "index": "42",
+    "nation": "2",
+    "city": "5",
+    "facility": "21",
+    "type": "conversation",
+    "job": "함선 선장",
+    "character": "바르토"
+  },
+  {
+    "index": "43",
+    "nation": "2",
+    "city": "5",
+    "facility": "29",
+    "type": "conversation",
+    "job": "연못 지기",
+    "character": "아미르"
+  },
+  {
+    "index": "44",
+    "nation": "2",
+    "city": "6",
+    "facility": "30",
+    "type": "conversation",
+    "job": "요정",
+    "character": "리스"
+  },
+  {
+    "index": "45",
+    "nation": "2",
+    "city": "6",
+    "facility": "30",
+    "type": "conversation",
+    "job": "성잔신악",
+    "character": "이브"
+  },
+  {
+    "index": "46",
+    "nation": "2",
+    "city": "6",
+    "facility": "30",
+    "type": "conversation",
+    "job": "성잔검사",
+    "character": "아우람"
+  },
+  {
+    "index": "47",
+    "nation": "2",
+    "city": "6",
+    "facility": "30",
+    "type": "conversation",
+    "job": "성잔전사",
+    "character": "닝기루스"
+  },
+  {
+    "index": "48",
+    "nation": "2",
+    "city": "6",
+    "facility": "30",
+    "type": "conversation",
+    "job": "성잔용",
+    "character": "임두크"
+  },
+  {
+    "index": "49",
+    "nation": "2",
+    "city": "6",
+    "facility": "31",
+    "type": "conversation",
+    "job": "스캐빈저 길드장",
+    "character": "잭슨"
+  },
+  {
+    "index": "50",
+    "nation": "2",
+    "city": "6",
+    "facility": "32",
+    "type": "conversation",
+    "job": "고철 대장장이",
+    "character": "러스티"
+  },
+  {
+    "index": "51",
+    "nation": "2",
+    "city": "6",
+    "facility": "33",
+    "type": "conversation",
+    "job": "야영지 요리사",
+    "character": "척"
+  },
+  {
+    "index": "52",
+    "nation": "2",
+    "city": "6",
+    "facility": "34",
+    "type": "conversation",
+    "job": "온실 관리인",
+    "character": "플로라"
+  },
+  {
+    "index": "53",
+    "nation": "2",
+    "city": "6",
+    "facility": "35",
+    "type": "conversation",
+    "job": "광신도",
+    "character": "렉스"
+  }
+]

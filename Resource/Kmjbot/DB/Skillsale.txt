@@ -1,0 +1,97 @@
+[
+  {
+    "city": "1",
+    "facility": "6",
+    "skill": "3"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "6"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "7"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "8"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "9"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "10"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "11"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "12"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "13"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "14"
+  },
+  {
+    "city": "3",
+    "facility": "13",
+    "skill": "15"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "16"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "18"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "20"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "22"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "24"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "26"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "28"
+  },
+  {
+    "city": "5",
+    "facility": "27",
+    "skill": "30"
+  }
+]

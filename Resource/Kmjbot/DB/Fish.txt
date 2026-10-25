@@ -1,0 +1,122 @@
+[
+  {
+    "index": "4001",
+    "kind": "SundryItem",
+    "grade": "F",
+    "size": "5~15"
+  },
+  {
+    "index": "4002",
+    "kind": "SundryItem",
+    "grade": "E",
+    "size": "20~45"
+  },
+  {
+    "index": "4003",
+    "kind": "SundryItem",
+    "grade": "D",
+    "size": "15~50"
+  },
+  {
+    "index": "4004",
+    "kind": "SundryItem",
+    "grade": "C",
+    "size": "25~60"
+  },
+  {
+    "index": "4005",
+    "kind": "SundryItem",
+    "grade": "B",
+    "size": "23~50"
+  },
+  {
+    "index": "4006",
+    "kind": "SundryItem",
+    "grade": "A",
+    "size": "35~75"
+  },
+  {
+    "index": "4007",
+    "kind": "SundryItem",
+    "grade": "S",
+    "size": "34~67"
+  },
+  {
+    "index": "4008",
+    "kind": "SundryItem",
+    "grade": "SS",
+    "size": "40~80"
+  },
+  {
+    "index": "4009",
+    "kind": "SundryItem",
+    "grade": "US",
+    "size": "40~100"
+  },
+  {
+    "index": "4010",
+    "kind": "SundryItem",
+    "grade": "MS",
+    "size": "100~250"
+  },
+  {
+    "index": "4011",
+    "kind": "SundryItem",
+    "grade": "E",
+    "size": "5~15"
+  },
+  {
+    "index": "4012",
+    "kind": "SundryItem",
+    "grade": "D",
+    "size": "10~25"
+  },
+  {
+    "index": "4013",
+    "kind": "SundryItem",
+    "grade": "C",
+    "size": "15~30"
+  },
+  {
+    "index": "4014",
+    "kind": "SundryItem",
+    "grade": "B",
+    "size": "20~40"
+  },
+  {
+    "index": "4015",
+    "kind": "SundryItem",
+    "grade": "A",
+    "size": "30~55"
+  },
+  {
+    "index": "4016",
+    "kind": "SundryItem",
+    "grade": "S",
+    "size": "35~60"
+  },
+  {
+    "index": "4017",
+    "kind": "SundryItem",
+    "grade": "SS",
+    "size": "40~65"
+  },
+  {
+    "index": "4018",
+    "kind": "SundryItem",
+    "grade": "US",
+    "size": "20~35"
+  },
+  {
+    "index": "4019",
+    "kind": "SundryItem",
+    "grade": "MS",
+    "size": "80~150"
+  },
+  {
+    "index": "4020",
+    "kind": "SundryItem",
+    "grade": "RS",
+    "size": "120~200"
+  }
+]

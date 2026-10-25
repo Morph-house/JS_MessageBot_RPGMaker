@@ -1,0 +1,2181 @@
+[
+  {
+    "index": "4",
+    "itemkind": "SundryItem",
+    "city": "1",
+    "facility": "3",
+    "needrune": "5000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "9",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "20000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "50",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "10",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "20000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "50",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "11",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "20000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "50",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "12",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "20000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "50",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "13",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "20000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "35",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "50",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "14",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "1",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "15",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "16",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "17",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "18",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "19",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "20",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "15000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "21",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "45",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "22",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "45",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "23",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "45",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "24",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "45",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "25",
+    "itemkind": "WearItem",
+    "city": "2",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "1",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "2",
+        "count": "75",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "3",
+        "count": "45",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "11",
+    "itemkind": "FunctionalityItem",
+    "city": "3",
+    "facility": "13",
+    "needrune": "6000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "15",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "16",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "12",
+    "itemkind": "FunctionalityItem",
+    "city": "3",
+    "facility": "13",
+    "needrune": "12000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "15",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "16",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "13",
+    "itemkind": "FunctionalityItem",
+    "city": "3",
+    "facility": "13",
+    "needrune": "24000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "60",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "60",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "15",
+        "count": "40",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "16",
+        "count": "20",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "17",
+    "itemkind": "SundryItem",
+    "city": "3",
+    "facility": "14",
+    "needrune": "5000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "15",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "16",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "19",
+    "itemkind": "SundryItem",
+    "city": "1",
+    "facility": "3",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "5",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "18",
+        "count": "3",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "9",
+    "itemkind": "SundryItem",
+    "city": "4",
+    "facility": "20",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "8",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "10",
+    "itemkind": "SundryItem",
+    "city": "4",
+    "facility": "20",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "9",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "11",
+    "itemkind": "SundryItem",
+    "city": "4",
+    "facility": "20",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "10",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "12",
+    "itemkind": "SundryItem",
+    "city": "4",
+    "facility": "20",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "11",
+        "count": "20",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "28",
+    "itemkind": "SundryItem",
+    "city": "1000",
+    "facility": "14",
+    "needrune": "14000",
+    "material": [
+      {
+        "itemIdx": "24",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "25",
+        "count": "20",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "26",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "27",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "30",
+    "itemkind": "SundryItem",
+    "city": "1000",
+    "facility": "14",
+    "needrune": "40000",
+    "material": [
+      {
+        "itemIdx": "29",
+        "count": "7",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1003",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "37",
+    "itemkind": "FunctionalityItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "200000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "50",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "3",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "68",
+    "itemkind": "WearItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "75000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "12",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "69",
+    "itemkind": "WearItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "75000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "12",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "70",
+    "itemkind": "WearItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "75000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "12",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "71",
+    "itemkind": "WearItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "75000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "12",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "72",
+    "itemkind": "WearItem",
+    "city": "1000",
+    "facility": "22",
+    "needrune": "75000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "12",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "32",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "38",
+    "itemkind": "SundryItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "10000",
+    "material": [
+      {
+        "itemIdx": "34",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "35",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "36",
+        "count": "25",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "39",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "41",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "42",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "43",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "44",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "45",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "46",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "47",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "48",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "39",
+        "count": "30",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "63",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "30",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "64",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "31",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "65",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "32",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "66",
+    "itemkind": "FunctionalityItem",
+    "city": "5",
+    "facility": "28",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "33",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "44",
+    "itemkind": "SundryItem",
+    "city": "6",
+    "facility": "30",
+    "needrune": "12000",
+    "material": [
+      {
+        "itemIdx": "40",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "41",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "42",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "43",
+        "count": "25",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "48",
+    "itemkind": "SundryItem",
+    "city": "6",
+    "facility": "30",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "37",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "1005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "84",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "40",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "43",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "85",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "34",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "42",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "86",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "36",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "43",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "87",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "35",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "41",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "88",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "34",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "36",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "89",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "35",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "42",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "90",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "36",
+        "count": "120",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "40",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "91",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "160000",
+    "material": [
+      {
+        "itemIdx": "41",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "43",
+        "count": "100",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "37",
+        "count": "25",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "92",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "37",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "93",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "37",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "94",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "5",
+    "material": [
+      {
+        "itemIdx": "37",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "95",
+    "itemkind": "WearItem",
+    "city": "6",
+    "facility": "32",
+    "needrune": "100000",
+    "material": [
+      {
+        "itemIdx": "37",
+        "count": "15",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "45",
+        "count": "10",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "49",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "50",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "51",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "52",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4001",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4002",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4003",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4005",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4006",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4007",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4008",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4011",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4012",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4013",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4015",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4016",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4019",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "1000",
+    "material": [
+      {
+        "itemIdx": "4020",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "55",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9001",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9000",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "56",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1009",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9000",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "57",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1008",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9003",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "58",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1011",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9003",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "59",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1007",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9000",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "60",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1010",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9002",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "61",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1013",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9000",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "62",
+    "itemkind": "FunctionalityItem",
+    "city": "6",
+    "facility": "33",
+    "needrune": "500",
+    "material": [
+      {
+        "itemIdx": "54",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1006",
+        "count": "3",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9001",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ]
+  }
+]

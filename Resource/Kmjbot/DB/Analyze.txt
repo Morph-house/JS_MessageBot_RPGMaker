@@ -1,0 +1,7 @@
+[
+  {
+    "sundryindex": "22",
+    "functionalyindex": "35",
+    "needrune": "5000"
+  }
+]

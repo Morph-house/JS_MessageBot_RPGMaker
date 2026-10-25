@@ -1,0 +1,2150 @@
+[
+  {
+    "index": "1",
+    "title": "[튜토리얼] \"@Fix명령어\"를 입력하여 명령어 창을 열어보자",
+    "kind": "Action",
+    "target": "명령어",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[아우람] 잘했어. 다음 미션을 받고싶으면 말을 걸어줄래?"
+  },
+  {
+    "index": "2",
+    "title": "[튜토리얼] \"@Fix가방\"을 입력하여 가방을 열어보자",
+    "kind": "Action",
+    "target": "가방",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[아우람] 가방을 열때, \"@Fix가방 검색어\" 로 내 가방을 검색 할 수도 있어."
+  },
+  {
+    "index": "3",
+    "title": "[튜토리얼] \"@Fix사용 회복상자\"를 사용하여 아이템을 사용해보자",
+    "kind": "Action",
+    "target": "사용",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[아우람] 아이템을 여러개 사용하고 싶으면 \"@Fix 갯수 아이템명\" 으로 사용하면 돼. 단, 되는템이 있고, 안되는 템이 있으니 확인해보고 쓰도록 하자"
+  },
+  {
+    "index": "4",
+    "title": "[튜토리얼] \"@Fix이동\"과 \"@Fix떠나기\"를 활용하여 장비상점으로 이동해보자. 이동후 \"@Fix완료하기\" 명령어로 완료되 됩니다.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;1;5;0;0",
+    "item": [],
+    "story": "[상점주인 살몬] 어서오시게. 아우람에게 말은 들었다네. 다음 미션을 수행하고 싶으면 나에게 말을 걸면 된다네. "
+  },
+  {
+    "index": "5",
+    "title": "[튜토리얼] \"@Fix가이드\"를 활용하여 현재 위치의 정보를 확인해 보자.",
+    "kind": "Action",
+    "target": "가이드",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[상점주인 살몬] 그렇지. 잘했구만. 그럼 무기상점에서 \"@Fix가이드\"를 치면 구매하기 명령어가 보인다네."
+  },
+  {
+    "index": "6",
+    "title": "[튜토리얼] \"@Fix구매\"를 활용하여 상점에서 아무 아이템을 구매해보자",
+    "kind": "Action",
+    "target": "구매",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[상점주인 살몬] 잘했다네. \"@Fix구매 갯수 아이템명\"으로 여러개를 동시에 구매도 가능하지."
+  },
+  {
+    "index": "7",
+    "title": "[튜토리얼] 닝기루스네 집으로 향해보자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;1;3;0;0",
+    "item": [
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "8",
+        "count": "1",
+        "itemkind": "WearItem"
+      }
+    ],
+    "story": "[닝기루스] 당신이 @Name 이로군요. 살몬 아저씨로부터 연락 받았어요. 크롤러 토벌에 준비가 완료 전이군요. 그럼 장비 아이템을 장착 해보도록 할까요?"
+  },
+  {
+    "index": "8",
+    "title": "[튜토리얼] \"@Fix장착 아이템명\"으로 보유하고 있는 장비를 착용해 보자.",
+    "kind": "Action",
+    "target": "장착",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[닝기루스] 잘하셨습니다. 장착확인은 \"@Fix가방\" 인건 아시겠죠?  그럼 다른 착용할수 있는 장비들도 마저 다 착용해봐요."
+  },
+  {
+    "index": "9",
+    "title": "[튜토리얼] \"@Fix스킬\"로 보유하고 있는 스킬을 확인하자.",
+    "kind": "Action",
+    "target": "스킬",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[닝기루스] 그럼 보유하고 있는 스킬을 스킬슬롯에 장착해보도록 할께요."
+  },
+  {
+    "index": "10",
+    "title": "[튜토리얼] \"@Fix스킬설정\" 으로 스킬슬롯에 스킬을 장착해보도록 하자. ",
+    "kind": "Action",
+    "target": "스킬설정",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[닝기루스] 이제 사냥 준비가 다 끝났습니다. 이제 크롤러 토벌을 해보도록 하죠."
+  },
+  {
+    "index": "11",
+    "title": "[튜토리얼] 크롤러 사냥을 통하여 크롤러 기어 5개를 획득하여 닝기루스에게 전달 하자.",
+    "kind": "Item",
+    "target": "1",
+    "option": "SundryItem",
+    "count": "5",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;1;3;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[닝기루스] 수고하셨습니다. 그럼 이제 포션 사용법을 알아볼까요?"
+  },
+  {
+    "index": "12",
+    "title": "[튜토리얼] \"@Fix포션설정\" 으로 포션을 설정해 보자.",
+    "kind": "Action",
+    "target": "포션설정",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[닝기루스] 여기까지가 가장 기본적인 전투 방식이야. 그 밖에도 많지만 우선은 \"@Fix명령어\"를 통해 알아보고, 이곳저곳을 돌아다니면서 명령어를 알아보면 될것 같아."
+  },
+  {
+    "index": "13",
+    "title": "[메인] 성신의 숲에서 크롤러 스파인a를 토벌하자",
+    "kind": "Monster",
+    "target": "1",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;1;6;0;0",
+    "item": [],
+    "story": "[이브] 와~ 정말 대단하신거 같아요. 정말 수고하셨습니다."
+  },
+  {
+    "index": "14",
+    "title": "[튜토리얼] \"@Fix마석흡수\" 로 스텟을 향상 시켜 보자",
+    "kind": "Action",
+    "target": "마석흡수",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[이브] 마석흡수는 보유 룬을 소모해 스텟을 올리지만, 점점 룬 요구치가 올라가기 때문에 항상 신중하게 올리시기 바랍니다."
+  },
+  {
+    "index": "15",
+    "title": "[보조] 엑스크롤러 뉴고로스a 를 사냥하자.",
+    "kind": "Monster",
+    "target": "4",
+    "option": "Monster",
+    "count": "1",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1;1;3;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[닝기루스] @Name 와~ 성공하셨군요. 엄청 나군요."
+  },
+  {
+    "index": "16",
+    "title": "[메인] 크롤러 외판 20개를 획득하여 앰버 하운 마을 대장간으로 이동하자.",
+    "kind": "Item",
+    "target": "3",
+    "option": "SundryItem",
+    "count": "20",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;2;8;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "25",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[벤] 아브람에게 주문했던 크롤러 외판이로군."
+  },
+  {
+    "index": "17",
+    "title": "[튜토리얼] \"@Fix제작\" 명령어로 아이템을 제작해보자",
+    "kind": "Action",
+    "target": "제작",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "[벤] 참고로 \"@재료 아이템명\" 으로 들어가는 재료를 확인 할수 있다네."
+  },
+  {
+    "index": "18",
+    "title": "[메인] 크롤러 구동계를 5개를 구해 벤에게 전달하자.",
+    "kind": "Item",
+    "target": "4",
+    "option": "SundryItem",
+    "count": "5",
+    "passport": "",
+    "rune": "7000",
+    "compliteloc": "1;2;8;0;0",
+    "item": [
+      {
+        "itemIdx": "7",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[벤] 오~ 수고했네, 이걸로 크롤러들이 갑자기 많아진 이유를 알 수 있겠어"
+  },
+  {
+    "index": "19",
+    "title": "[메인] 모험가 길드로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [],
+    "story": "[리리] 안녕하세요. 모험가 길드 입니다. 무엇을 도와드릴까요?"
+  },
+  {
+    "index": "20",
+    "title": "[메인] 크롤러 덴드라이트a를 15마리 퇴치하자",
+    "kind": "Monster",
+    "target": "5",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "10000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "30",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 오 실력이 상당하시군요. 두번째 테스트를 진행하도록 하겠습니다. 준비가 다 되면 저에게 말을 걸어주세요"
+  },
+  {
+    "index": "21",
+    "title": "[메인] 엑스크롤러 코어를 1개 제공하자",
+    "kind": "Item",
+    "target": "5",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "50",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 완벽하군요. 자 마지막 테스트를 하시려면 저에게 다시 말을 걸어주세요."
+  },
+  {
+    "index": "22",
+    "title": "[메인] 철을 50개를 헌납하자",
+    "kind": "Item",
+    "target": "1002",
+    "option": "SundryItem",
+    "count": "50",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "1004",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 네 끝났습니다. 여기 모험가 면허증 입니다. 이것을 가지고 다니시면 각 마을의 길드에서 의뢰를 진행할 수 있습니다."
+  },
+  {
+    "index": "23",
+    "title": "[튜토리얼]  \"@Fix채광하기\" 로 채광을 해보자",
+    "kind": "Action",
+    "target": "채광하기",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "1002",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[엘런] 오 역시 젊어서 그런지 빨리 배우는구만."
+  },
+  {
+    "index": "24",
+    "title": "[보조] 성휘석 1개를 엘런에게 전달하자",
+    "kind": "Item",
+    "target": "1005",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;2;10;0;0",
+    "item": [
+      {
+        "itemIdx": "1005",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[엘런] 오 이것은 성휘석이 분명하구만, 여기 보상이네"
+  },
+  {
+    "index": "25",
+    "title": "[메인] 크롤러 랑비에a를 30마리 퇴치하자",
+    "kind": "Monster",
+    "target": "6",
+    "option": "Monster",
+    "count": "30",
+    "passport": "",
+    "rune": "12000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "4",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[로베르트] 오 수고하셨습니다. 역시 뛰어난 실력이군요."
+  },
+  {
+    "index": "26",
+    "title": "[메인] 크롤러 리셉터a를 30마리 퇴치하자",
+    "kind": "Monster",
+    "target": "7",
+    "option": "Monster",
+    "count": "30",
+    "passport": "",
+    "rune": "12000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "4",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[로베르트] 이번에도 기대를 저버리지 않으시네요."
+  },
+  {
+    "index": "27",
+    "title": "[메인] 별의마을 무녀신전으로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;1;6;0;0",
+    "item": [],
+    "story": "[이브] @Name님 오셨군요. 이번에 모험가가 되셨다니 축하드려요. "
+  },
+  {
+    "index": "28",
+    "title": "[보조] 엑스크롤러 시냅시스a를 2마리 사냥하자",
+    "kind": "Monster",
+    "target": "8",
+    "option": "Monster",
+    "count": "2",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[로베르트] 오 매우 감사합니다. 골치거리였는데 한 숨 돌리수 있겠군요."
+  },
+  {
+    "index": "29",
+    "title": "[메인] 이브를 가르디아 유적지의 임시거점까지 호위하자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "1;3;14;0;0",
+    "item": [],
+    "story": "[이브] 덕분에 무사히 도착했어요. 감사해요."
+  },
+  {
+    "index": "30",
+    "title": "[메인] 크롤 유목에 나타난 크롤러 액산b를 10마리 퇴치하자",
+    "kind": "Monster",
+    "target": "12",
+    "option": "Monster",
+    "count": "10",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;3;14;0;0",
+    "item": [
+      {
+        "itemIdx": "8",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "16",
+        "count": "3",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[아우람] @Name 수고했어, 닝기루스와 나도 합류하기 위해 달려왔어, 이제 같이 조사하도록 하자."
+  },
+  {
+    "index": "31",
+    "title": "[메인] 크롤 유목 사냥터로 이동하자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "1;3;0;3;0",
+    "item": [],
+    "story": "어린용이 크롤러에게 공격당하는 것을 구해줌.\n[어린용] ..... 끼잉\n[@Name] (우선 데려가 보자...)"
+  },
+  {
+    "index": "32",
+    "title": "[메인] 임시거점의 이브에게 어린용을 맡기자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "1;3;14;0;0",
+    "item": [],
+    "story": "[이브] 감사합니다. 제가 잘 돌볼께요. 그럼 이름을.. 그래 넌 수호룡 임두크야~ \n[임두크] 크릉!!"
+  },
+  {
+    "index": "33",
+    "title": "[메인] 유적 조사를 위한 부품 수집",
+    "kind": "Item",
+    "target": "15",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;3;14;0;0",
+    "item": [
+      {
+        "itemIdx": "17",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[닝기루스] 오, 정확히 10개를 다 모아오셨군요! 고맙습니다 @Name님. 이 부품들이라면 멈췄던 동력 장치를 다시 돌릴 수 있겠어요. 이제 유적 안쪽으로 들어갈 준비를 하시지요."
+  },
+  {
+    "index": "34",
+    "title": "[메인] 성유물 - 성잔으로의 여정",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [
+      {
+        "itemIdx": "7",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[닝기루스] 무사히 도착했군요. 그런데... 저기 성잔에서 빛이...?\r\n[???] 반가워요, 별을 구하러 온 용사님들. 제 이름은 '리스'. 이 성유물을 안내하는 홀로그램 요정이에요."
+  },
+  {
+    "index": "35",
+    "title": "[메인] 별을 구하기 위한 첫걸음",
+    "kind": "Monster",
+    "target": "11",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [
+      {
+        "itemIdx": "4",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "17",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[닝기루스] 고생 많으셨습니다, @Name님. 리스의 말대로 이들의 사체에서 추출한 에너지가 성잔의 빛을 조금씩 되살리고 있군요. 이제 시작인 것 같습니다."
+  },
+  {
+    "index": "36",
+    "title": "[메인] 성잔을 노리는 비행 군체",
+    "kind": "Monster",
+    "target": "13",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [
+      {
+        "itemIdx": "7",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[닝기루스] 하늘의 적들까지 깔끔하게 정리하셨군요. @Name님, 정말 든든합니다. 이제 성잔 주변의 기운이 한결 맑아진 것 같습니다."
+  },
+  {
+    "index": "37",
+    "title": "[메인] 군체의 통제자 뉴로고스",
+    "kind": "Monster",
+    "target": "14",
+    "option": "Monster",
+    "count": "5",
+    "passport": "",
+    "rune": "30000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [
+      {
+        "itemIdx": "18",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "4",
+        "count": "10",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[리스] @Name님의 무용 덕분에 성잔의 빛이 이제 가르디아 전체를 비추기 시작했군요. 드디어 성유물 - 성잔은 정화되었어요. 감사합니다."
+  },
+  {
+    "index": "38",
+    "title": "[튜토리얼] \"@Fix낚시등록\" 명령어로 낚시꾼이 되어보자",
+    "kind": "Action",
+    "target": "낚시등록",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "4001",
+        "count": "5",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[카이] 좋아, 이제 자네도 공식적인 낚시꾼이야. 이건 내 특별 서비스라네. 이 낚싯대로 은하수 송어라도 한 마리 낚아 보라고!"
+  },
+  {
+    "index": "39",
+    "title": "[튜토리얼] 밤을 밝히는 비늘",
+    "kind": "Item",
+    "target": "4002",
+    "option": "SundryItem",
+    "count": "5",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1;3;12;0;0",
+    "item": [
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[카이] 오! 정말로 성휘어를 5마리나 낚아왔군! 비늘에서 나는 이 영롱한 빛 좀 보게. 자네, 생각보다 소질이 있는걸? 이건 내 특별히 주는 보상이라네."
+  },
+  {
+    "index": "40",
+    "title": "[메인] 성잔의 선택, 진정한 각성.  \"@Fix종족진화\" 명령어로 종족진화를 해보자.",
+    "kind": "Action",
+    "target": "종족진화",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "30000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "8",
+        "count": "10",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "4",
+        "count": "20",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[리스] 성잔의 힘이 당신의 신체와 영혼을 새롭게 벼려냈습니다. 이제 당신의 앞길을 막을 것은 그 무엇도 없을 거예요. 각성한 그 힘으로, 이 땅에 흩어진 성유물들을 모아주세요. 제가 언제나 당신의 곁에서 기도할게요."
+  },
+  {
+    "index": "41",
+    "title": "[보조] 최강 최흉의 존재, 크롤러 소우마 3형 토벌하자.",
+    "kind": "Monster",
+    "target": "9",
+    "option": "Monster",
+    "count": "1",
+    "passport": "",
+    "rune": "70000",
+    "compliteloc": "1;3;14;0;0",
+    "item": [
+      {
+        "itemIdx": "10000",
+        "count": "3",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[아우람] 와~ 그 크롤러 소우마를 무찌르다니, 혹시 너가 별의 용사가 아닐까? "
+  },
+  {
+    "index": "42",
+    "title": "[보조] 엑스크롤러 퀄리아크a 토벌",
+    "kind": "Monster",
+    "target": "10",
+    "option": "Monster",
+    "count": "1",
+    "passport": "",
+    "rune": "70000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[로베르트] 정말 대단하십니다, @Name 모험가님! 그 거대한 크롤러 퀄리아크를 파괴하시다니, 앰버 하운의 광부들이 드디어 안심하고 생업에 복귀할 수 있게 되었습니다. 이것은 길드에서 준비한 특별한 보상입니다."
+  },
+  {
+    "index": "43",
+    "title": "[메인] 다음 성유물의 힌트를 얻기 위해 솔라리스 여관으로 향하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;4;7;0;0",
+    "item": [
+      {
+        "itemIdx": "7",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[아우람] 드디어 도착했다.\n[닝기루스] 그러게요.\n[이브] 저는 임두크랑 좀 쉴께요.\n[리스] 이브님 저도 같이 가요.\n[@Name] ....."
+  },
+  {
+    "index": "44",
+    "title": "[튜토리얼] 솔라리스 투기장으로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;4;17;0;0",
+    "item": [],
+    "story": "[아우람] 솔라리스 투기장에 무사히 도착했구나! 자, 이제 이곳에서 너의 진정한 강함을 증명해 볼 차례야!"
+  },
+  {
+    "index": "45",
+    "title": "[튜토리얼] 솔라리스 투기장 시합하기",
+    "kind": "Action",
+    "target": "시합하기",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[발레리아] 훌륭한 시합이었습니다! 앞으로도 이 투기장에서 당신의 강함을 증명해 주세요!"
+  },
+  {
+    "index": "46",
+    "title": "[튜토리얼] 별무리 카지노로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;4;16;0;0",
+    "item": [],
+    "story": "[닝기루스] 별무리 카지노에 무사히 도착하셨군요. 이곳은 엄청난 재화가 오가는 곳이니 부디 무리하지 말고 적당히 즐기시길 바랍니다."
+  },
+  {
+    "index": "47",
+    "title": "[튜토리얼] 별무리 카지노의 룰렛을 돌려보자",
+    "kind": "Action",
+    "target": "룰렛",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[루시엔] 결과가 어찌 되었든 이 짜릿한 스릴이야말로 카지노의 진정한 묘미 아니겠습니까? 당신의 운명에 항상 행운이 따르길 바랍니다"
+  },
+  {
+    "index": "48",
+    "title": "[튜토리얼] 솔라리스 대장간으로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;4;8;0;0",
+    "item": [],
+    "story": "[발칸] 오! 이브 아가씨가 말했던 풋내기 모험가가 너로구만! 그런 낡은 장비로 관문을 넘어가려 했다간 크롤러들에게 한 방에 털렸을 거다. 내 대장간에 아주 잘 찾아왔어!"
+  },
+  {
+    "index": "49",
+    "title": "[튜토리얼] 발칸의 장비 강화 수업",
+    "kind": "Action",
+    "target": "강화하기",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[발칸] 훌륭해! 무기가 한층 더 날카로워졌군. 이 정도면 웬만한 크롤러 장갑은 거뜬히 뚫을 수 있을 거다. 앞으로도 대장간을 자주 찾아오라고! 으하하!"
+  },
+  {
+    "index": "50",
+    "title": "[메인] 다음 성유물의 단서를 찾아서",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [],
+    "story": "[루루] 솔라리스 모험가 길드에 오신 것을 환영합니다! 성유물에 대한 정보라면 저희 길드장님이신 세리오스 님께서 도움을 주실 수 있을 거예요."
+  },
+  {
+    "index": "51",
+    "title": "[메인] 성유물의 파동을 추적하라",
+    "kind": "Item",
+    "target": "16",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "10000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "8",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[세리오스] 훌륭하군. 가져온 바이오 필라멘트 내부의 신경망에서 미세하지만 뚜렷한 별의 파동이 감지되고 있네. 당장 길드의 장치로 역추적 분석을 시작하지. 조금만 기다려 주게나."
+  },
+  {
+    "index": "52",
+    "title": "[메인] 암호화된 신경망 해독",
+    "kind": "Item",
+    "target": "13",
+    "option": "SundryItem",
+    "count": "15",
+    "passport": "",
+    "rune": "15000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "9",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[세리오스] 훌륭해! 가져온 키틴질의 광학 센서 회로를 연결하니 복잡했던 암호화가 풀리기 시작했네. 자, 이제 거의 다 왔어!"
+  },
+  {
+    "index": "53",
+    "title": "[메인] 미약한 코어 신호 증폭",
+    "kind": "Item",
+    "target": "18",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "10",
+        "count": "1",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "8",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[세리오스] 엄청난 에너지가 느껴지는군! 원자로를 연결하니 마침내 끊어졌던 코어 데이터가 완벽하게 복구되었네. 놀랍게도 다음 성유물의 진짜 좌표는 알려진 도시가 아니라, 성신의 숲 외곽에 있는 미지의 '늪지대'를 가리키고 있어!"
+  },
+  {
+    "index": "54",
+    "title": "[메인] 침식된 부해 진입 허가",
+    "kind": "Monster",
+    "target": "18",
+    "option": "Monster",
+    "count": "3",
+    "passport": "2",
+    "rune": "30000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[루루] 대단하십니다! 그 흉포한 엑스크롤러 시냅시스b 군체를 무사히 토벌하셨군요. 모험가님의 실력은 의심할 여지가 없습니다. 여기 '침식된 부해'로 향하는 정식 통행증을 발급해 드리겠습니다. 부디 맹독에 주의하세요!"
+  },
+  {
+    "index": "55",
+    "title": "[보조] 해당 레이더가 무엇인지 리스에게 물어보자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [],
+    "story": "[리스] @Name님! 방금 가동하신 그 장치에서 뿜어져 나오는 붉은 파동은 대체 뭐죠? 이리 줘보세요... 세상에, 이건 퀄리아크의 '심연의 궤적 레이더' 잖아요! 녀석들이 건조되었던 끔찍한 기원지의 좌표를 가리키고 있어요!"
+  },
+  {
+    "index": "56",
+    "title": "[보조] 생산기지의 문을 열 동력원",
+    "kind": "Item",
+    "target": "21",
+    "option": "SundryItem",
+    "count": "3",
+    "passport": "",
+    "rune": "40000",
+    "compliteloc": "1;3;13;0;0",
+    "item": [
+      {
+        "itemIdx": "9",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[리스] 훌륭해요, @Name님! 퀄리아크의 강력한 에너지가 담긴 코어 3개가 모두 모였네요. 이 에너지를 레이더에 주입하면 숨겨진 생산기지의 입구를 개방할 수 있을 거예요. 자, 모든 악의 근원지로 향할 준비가 되셨나요?"
+  },
+  {
+    "index": "57",
+    "title": "[보조] 에테르 부양선 선착장으로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "1000",
+    "rune": "1000",
+    "compliteloc": "1;4;21;0;0",
+    "item": [],
+    "story": "[바르토] 오, 반갑네 제군들. \n(리스가 바르토에게 속삭인다.) \n[바르토] 당연하지~ 가져온 전함의 코어와 궤적 레이더를 이 부양선의 메인 엔진에 연결하면, 그 숨겨진 기지까지 단숨에 돌파할 수 있어! 자, 꽉 잡으라고!"
+  },
+  {
+    "index": "58",
+    "title": "[보조] \"@Fix국가이동\"으로 \"성신의 숲 외각\"으로 이동하자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1000;1000;21;0;0",
+    "item": [],
+    "story": "[바르토] 으하하하! 맹독의 늪을 가로지르는 속도감이 어떤가? 뱃멀미할 시간도 없다고! 자, 저기 멀리 놈들의 본거지인 끔찍한 기계성체가 보이기 시작하는군. 무기 단단히 챙기라고!"
+  },
+  {
+    "index": "59",
+    "title": "[보조] 기계성체 보안 돌파 \"퀄리아 해킹 모듈\"을 구하자",
+    "kind": "Item",
+    "target": "33",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "8",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "27",
+        "count": "3",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리스] 후훗, 훌륭해요. 무사히 가져오셨군요. 이 해킹 모듈이면 아무리 뛰어난 고대의 AI라도 순식간에 통제권을 빼앗을 수 있죠."
+  },
+  {
+    "index": "60",
+    "title": "[보조] 마더 AI 통제권 탈취 - \"데우스 의체 배양소\"로 이동하자",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1000;1000;22;0;0",
+    "item": [],
+    "story": "[퀄리아] 치명적인 보안 결함 감지... 시스템 강제 재부팅... 환영합니다, 새로운 최고 관리자님. 시스템 탈취 보상으로 성체 내부의 자원을 모아 '휴대용 의체 조립 키트'를 배출합니다."
+  },
+  {
+    "index": "61",
+    "title": "[보조] Z타입의 위협 1 : 스파인z를 15마리 소탕하자.",
+    "kind": "Monster",
+    "target": "20",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "26",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리스] 스파인z 군체의 신호가 줄어들었군요. 정말 훌륭해요, @Name님! 다치신 곳은 없죠?"
+  },
+  {
+    "index": "62",
+    "title": "[보조] Z타입의 위협 2 : 덴드라이트z를 15마리 소탕하자",
+    "kind": "Monster",
+    "target": "24",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "8",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "27",
+        "count": "3",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리스] 덴드라이트z 마저 파괴하시다니... 당신의 무력은 정말 믿음직스러워요. 이제 거의 다 왔어요."
+  },
+  {
+    "index": "63",
+    "title": "[보조] Z타입의 위협 3 : 리셉터z를 15마리 소탕하자",
+    "kind": "Monster",
+    "target": "26",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "28",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리스] 완벽해요! 주변의 Z타입 위협 요소가 모두 제거되었어요. 후훗... 당신이라면 해낼 줄 알았답니다. 자, 그럼 이제 본격적으로 시설을 조사해 볼까요?"
+  },
+  {
+    "index": "64",
+    "title": "[보조] 오메가 섹터 보안 해제 - 리스에게 다음 미션을 받자.",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "10000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "30",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리스] 자, 여기 퀄리아가 생성해 낸 '초월된 심연의 열쇠'예요. 무한의 폐기장은 강력한 파티 던전이니, 부디 믿을 수 있는 동료들과 함께 가시는 걸 추천해요."
+  },
+  {
+    "index": "65",
+    "title": "[보조] 무한의 폐기장 : 퀄리아크z 토벌",
+    "kind": "Monster",
+    "target": "28",
+    "option": "Monster",
+    "count": "1",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [],
+    "story": "[리스] 아아... 이 엄청난 에테르의 파동! 퀄리아크z가 마침내 파괴되었군요. 거대한 병기마저 굴복시키는 당신의 무력은 언제 봐도 매혹적이에요."
+  },
+  {
+    "index": "66",
+    "title": "[보조] 권한의 완벽한 탈취 - 데우스 성체의 코어를 회수하자",
+    "kind": "Item",
+    "target": "32",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "10000",
+    "compliteloc": "1000;1000;14;0;0",
+    "item": [
+      {
+        "itemIdx": "12",
+        "count": "3",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[퀄리아] 데우스 코어 접속 완료. 기계성체 전 구역 통제권 100% 확보...\n[리스] 후훗, 드디어... 방해물도 사라지고 모든 것이 완벽하게 제 손에 들어왔어요. 수고하셨어요, 나의 '별의 용사'님."
+  },
+  {
+    "index": "67",
+    "title": "[메인] 성유물의 위치를 수소문하라",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [],
+    "story": "[호메로스] 자네들, 부해 어딘가에 잠든 거대한 성유물 '성개'를 찾고 있다고 들었소만."
+  },
+  {
+    "index": "68",
+    "title": "[메인] 호메로스의 조건",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;24;0;0",
+    "item": [],
+    "story": "[보리스] 으하하! 호메로스 영감의 부탁으로 왔다고? 아주 잘 왔어! 안 그래도 일손이 필요했거든."
+  },
+  {
+    "index": "69",
+    "title": "[메인] 보리스의 고철 수집 돕기",
+    "kind": "Item",
+    "target": "34",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "2;5;24;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[보리스] 아주 훌륭해! 이 싱싱한 맹독 진흙이면 쓸만한 부품들을 코팅할 수 있겠어."
+  },
+  {
+    "index": "70",
+    "title": "[메인] 라몬에게 이동하라",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;25;0;0",
+    "item": [],
+    "story": "[라몬] 풋내기 모험가들이 내 무기 수레엔 웬일이지? 보리스가 보냈다고?"
+  },
+  {
+    "index": "71",
+    "title": "[메인] 라몬의 고철 방어구 수리",
+    "kind": "Item",
+    "target": "36",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "2;5;25;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[라몬] 오호, 단단한 집게발이군. 방패 수리에 딱 좋겠어! 솜씨가 제법이군그래."
+  },
+  {
+    "index": "72",
+    "title": "[메인] 모닥불의 무희 일리야",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [],
+    "story": "[일리야] 어머나, 라몬 아저씨가 보내서 오셨나요? 당신들이 소문의 별빛 용사들이군요?"
+  },
+  {
+    "index": "73",
+    "title": "[메인] 무대를 방해하는 덩굴",
+    "kind": "Monster",
+    "target": "30",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "38",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[일리야] 후훗, 징그러운 촉수들이 사라지니 안심하고 춤출 맛이 나네요! 정말 고마워요."
+  },
+  {
+    "index": "74",
+    "title": "[메인] 샘터 지기 아미르",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;29;0;0",
+    "item": [],
+    "story": "[아미르] 맑은 샘물에 오신 것을 환영하오. 모험가님, 혹시 낚시는 좀 할 줄 아시오?"
+  },
+  {
+    "index": "75",
+    "title": "[메인] 유랑민을 위한 식량 조달",
+    "kind": "Action",
+    "target": "낚시하기",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "36",
+        "count": "5",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[아미르] 훌륭한 솜씨요. 늪지대 생물에 지친 유랑민들에게 이 맑은 물고기는 큰 힘이 될 거요."
+  },
+  {
+    "index": "76",
+    "title": "[메인] 러스트 하벤의 소문",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [],
+    "story": "[호메로스] 자네들의 선한 파동이 여기까지 전해졌소. 약속대로 정보를 주지. 다음 늪지대인 '러스트 하벤'의 거친 스캐빈저 중에, 어떤 기괴하고 특수한 구조물을 보았다고 떠드는 자가 있다는구려. 자네들이 찾는 '성개'일지 모르니, 그 자를 찾아 그곳으로 가보시오"
+  },
+  {
+    "index": "77",
+    "title": "[보조] 매혹적인 주술의 향기",
+    "kind": "Item",
+    "target": "35",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "2;5;27;0;0",
+    "item": [
+      {
+        "itemIdx": "39",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[벨라도나] 후훗... 산성 가시 특유의 시큼하고 자극적인 향기가 제 마차를 가득 채우네요. 아주 만족스러워요. 이건 제 감사의 표시랍니다."
+  },
+  {
+    "index": "78",
+    "title": "[보조] 부해의 진정한 공포",
+    "kind": "Monster",
+    "target": "32",
+    "option": "Monster",
+    "count": "1",
+    "passport": "",
+    "rune": "50000",
+    "compliteloc": "2;5;28;0;0",
+    "item": [
+      {
+        "itemIdx": "37",
+        "count": "2",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "39",
+        "count": "4",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      }
+    ],
+    "story": "[실비아] 키히힛! 그 무시무시한 망령을 정말로 쓰러뜨리다니! 네 녀석, 제법 쓸만한 사냥꾼이구나! 약속한 보상이다!"
+  },
+  {
+    "index": "79",
+    "title": "[보조] 낡은 가마솥의 기적",
+    "kind": "Action",
+    "target": "생산하기",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "0;0;0;0;0",
+    "item": [
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[실비아] 낄낄! 가마솥이 춤을 춘다! 네 손으로 직접 완벽한 비전 스킬서를 연성해 냈어! 당장 스킬을 배워보라고!"
+  },
+  {
+    "index": "80",
+    "title": "[보조] 맑은 샘물의 영물",
+    "kind": "Item",
+    "target": "4015",
+    "option": "SundryItem",
+    "count": "3",
+    "passport": "",
+    "rune": "30000",
+    "compliteloc": "2;5;29;0;0",
+    "item": [
+      {
+        "itemIdx": "39",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[아미르] 오오... 이 영롱한 별빛 비늘을 보시오. 이 기적의 물고기를 낚아 올리다니 자네는 진정한 낚시의 명인이 틀림없소!"
+  },
+  {
+    "index": "81",
+    "title": "[메인] 이브의 제안 : 식당으로 이동",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "2;6;33;0;0",
+    "item": [],
+    "story": "[이브] 식당에 도착했네요. 얼른 척씨에게 가서 '성개'에 대하여 물어보도록 하죠."
+  },
+  {
+    "index": "82",
+    "title": "[메인] 야영 식당을 위한 슬라임 진액",
+    "kind": "Item",
+    "target": "40",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;33;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "8",
+        "count": "3",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "44",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[척] 오! 맹독성 슬라임 진액을 구해왔군! 성개에 대한 소문에 대해 이야기 해주겠네."
+  },
+  {
+    "index": "83",
+    "title": "[메인] 길드 고철 대장간으로 이동",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "2;6;32;0;0",
+    "item": [],
+    "story": "[이브] 척 씨 말대로 대장간에 가서 러스티 씨에게 물어봐요!"
+  },
+  {
+    "index": "84",
+    "title": "[메인] 러스티의 톱니바퀴 수집",
+    "kind": "Item",
+    "target": "41",
+    "option": "SundryItem",
+    "count": "10",
+    "passport": "",
+    "rune": "8000",
+    "compliteloc": "2;6;32;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "10",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[러스티] 피 묻은 기계 톱니 덕분에 고철 무기를 제대로 정비했네!"
+  },
+  {
+    "index": "85",
+    "title": "[메인] 스캐빈저 길드 본부로 이동",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "3000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [],
+    "story": "[이브] 스캐빈저 길드 본부의 잭슨 길드장님을 만나보죠!"
+  },
+  {
+    "index": "86",
+    "title": "[메인] 침수된 고철 무덤 소탕",
+    "kind": "Monster",
+    "target": "36",
+    "option": "Monster",
+    "count": "15",
+    "passport": "",
+    "rune": "12000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "8",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "44",
+        "count": "2",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 부식된 엑스 스캐빈저들을 깔끔하게 처리했군! 수고했다. 사실 얼마전에 '원혼이 깃든 강철 제단'에서 강력한 에테르 에너지를 감지됐었지. 그래서 길드 내에서 조사대를 보냈지만 아직 소식이 없다네."
+  },
+  {
+    "index": "87",
+    "title": "[메인] 제단의 타락한 정령 정찰",
+    "kind": "Item",
+    "target": "50",
+    "option": "SundryItem",
+    "count": "1",
+    "passport": "",
+    "rune": "25000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "47",
+        "count": "20",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 제단의 최종 보스를 제압하다니. 대단하군, 그리고 이 보스를 잡고 드랍된 '제로 코어'에 대해서 잘 아는 사람이 있네."
+  },
+  {
+    "index": "88",
+    "title": "[메인] 타락한 정령의 제단으로 이동",
+    "kind": "Move",
+    "target": "",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;35;0;0",
+    "item": [],
+    "story": "[이브] 타락한 정령의 제단에 도달했어요. 광신도 렉스가 저기 있네요!"
+  },
+  {
+    "index": "89",
+    "title": "[메인] 광신도 렉스의 기괴한 요구",
+    "kind": "Item",
+    "target": "43",
+    "option": "SundryItem",
+    "count": "3",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "2;6;35;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "5",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "9",
+        "count": "2",
+        "itemkind": "FunctionalityItem"
+      },
+      {
+        "itemIdx": "48",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[렉스] 크하하! 이 순수한 타락한 에테르 결정! 약속대로 제로 코어의 사용법을 알려주도록 하지. 이 코어를 밀어서 비틀면...\n(제로 코어 중심에서 빛이 흘러나오기 시작한다.)\n[렉스] 이렇게 지도가 홀로그램으로 나타나지. 아마도 여기 거대한 손이 있는 곳이 너희가 찾던 성유물 일거야\n[이브] 와 드디어 성유물 성개의 위치를 알아냈어요."
+  },
+  {
+    "index": "1000",
+    "title": "[의뢰] 크롤러 스파인a 100마리 제거",
+    "kind": "Monster",
+    "target": "1",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1001",
+    "title": "[의뢰] 크롤러 액산a 100마리 제거",
+    "kind": "Monster",
+    "target": "2",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1002",
+    "title": "[의뢰] 크롤러 글리아a 100마리 제거",
+    "kind": "Monster",
+    "target": "3",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1003",
+    "title": "[의뢰] 엑스크롤러 뉴로고스a 20마리 제거",
+    "kind": "Monster",
+    "target": "4",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1004",
+    "title": "[의뢰] 크롤러 덴드라이트a 100마리 제거",
+    "kind": "Monster",
+    "target": "5",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1005",
+    "title": "[의뢰] 크롤러 랑비에a 100마리 제거",
+    "kind": "Monster",
+    "target": "6",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1006",
+    "title": "[의뢰] 크롤러 리셉터a 100마리 제거",
+    "kind": "Monster",
+    "target": "7",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "100",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "3",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1007",
+    "title": "[의뢰] 엑스크롤러 시냅시스a 20마리 제거",
+    "kind": "Monster",
+    "target": "8",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "1000",
+    "compliteloc": "1;2;9;0;0",
+    "item": [
+      {
+        "itemIdx": "5",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[리리] 수고하셨습니다."
+  },
+  {
+    "index": "1008",
+    "title": "[의뢰] 크롤러 스파인b 100마리 제거",
+    "kind": "Monster",
+    "target": "11",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1009",
+    "title": "[의뢰] 크롤러 액산b 100마리 제거",
+    "kind": "Monster",
+    "target": "12",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1010",
+    "title": "[의뢰] 크롤러 글리아b 100마리 제거",
+    "kind": "Monster",
+    "target": "13",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1011",
+    "title": "[의뢰] 엑스크롤러 뉴로고스b 20마리 제거",
+    "kind": "Monster",
+    "target": "14",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1012",
+    "title": "[의뢰] 크롤러 덴드라이트b 100마리 제거",
+    "kind": "Monster",
+    "target": "15",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1013",
+    "title": "[의뢰] 크롤러 랑비에b 100마리 제거",
+    "kind": "Monster",
+    "target": "16",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1014",
+    "title": "[의뢰] 크롤러 리셉터b 100마리 제거",
+    "kind": "Monster",
+    "target": "17",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "500",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1015",
+    "title": "[의뢰] 엑스크롤러 시냅시스b 20마리 제거",
+    "kind": "Monster",
+    "target": "18",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "1;4;9;0;0",
+    "item": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[루루] 수고하셨습니다."
+  },
+  {
+    "index": "1016",
+    "title": "[의뢰] 맹독 진흙 덩어리 100마리 제거",
+    "kind": "Monster",
+    "target": "29",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [
+      {
+        "itemIdx": "34",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[일리야] 후훗, 진흙투성이가 되셨네요. 고생하신 만큼 보상을 넉넉히 준비했어요."
+  },
+  {
+    "index": "1017",
+    "title": "[의뢰] 부해의 포식 덩굴 100마리 제거",
+    "kind": "Monster",
+    "target": "30",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [
+      {
+        "itemIdx": "35",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[일리야] 그 징그러운 촉수들을 이만큼이나 베어오다니, 제법이신걸요?"
+  },
+  {
+    "index": "1018",
+    "title": "[의뢰] 스크랩 헌터 크랩 100마리 제거",
+    "kind": "Monster",
+    "target": "31",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "2000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [
+      {
+        "itemIdx": "36",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[일리야] 덕분에 늪지대가 조금은 안전해졌네요. 자, 여기 약속한 의뢰비예요."
+  },
+  {
+    "index": "1019",
+    "title": "[의뢰] 오염된 에테르의 망령 20마리 제거",
+    "kind": "Monster",
+    "target": "32",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "10000",
+    "compliteloc": "2;5;26;0;0",
+    "item": [
+      {
+        "itemIdx": "37",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[일리야] 어머나... 그 무시무시한 망령들을 잠재우시다니. 당신의 화려한 춤사위에 반해버릴 것 같아요."
+  },
+  {
+    "index": "1020",
+    "title": "[의뢰] 오염된 고철 슬라임 100마리 제거",
+    "kind": "Monster",
+    "target": "34",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "40",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 늪지대 진흙이 우리 구역까지 튀지 않게 잘 막아줬군. 약속한 보상이다."
+  },
+  {
+    "index": "1021",
+    "title": "[의뢰] 돌연변이 톱니 쥐 100마리 제거",
+    "kind": "Monster",
+    "target": "35",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "41",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 골치 아프던 쥐새끼들을 훌륭하게 청소했군! 여기 의뢰비를 받아라."
+  },
+  {
+    "index": "1022",
+    "title": "[의뢰] 부식된 엑스 스캐빈저 100마리 제거",
+    "kind": "Monster",
+    "target": "36",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "42",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 미쳐버린 옛 동료들을 편안하게 해줬군... 씁쓸하지만 필요한 일이었어. 수고했다."
+  },
+  {
+    "index": "1023",
+    "title": "[의뢰] 타락한 에테르 융합체 100마리 제거",
+    "kind": "Monster",
+    "target": "37",
+    "option": "Monster",
+    "count": "100",
+    "passport": "",
+    "rune": "5000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "43",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 독기가 줄어든 걸 보니 제대로 찢어발기고 온 모양이군. 마음에 들어!"
+  },
+  {
+    "index": "1024",
+    "title": "[의뢰] 타락한 강철 정령 20마리 제거",
+    "kind": "Monster",
+    "target": "38",
+    "option": "Monster",
+    "count": "20",
+    "passport": "",
+    "rune": "20000",
+    "compliteloc": "2;6;31;0;0",
+    "item": [
+      {
+        "itemIdx": "45",
+        "count": "1",
+        "itemkind": "SundryItem"
+      }
+    ],
+    "story": "[잭슨] 으하하하! 그 거대한 고철 덩어리를 고철로 만들어버리다니! 넌 우리 길드의 최고 사냥꾼이다!"
+  },
+  {
+    "index": "999999",
+    "title": ".",
+    "kind": "Action",
+    "target": "sdkfjkwlekfj",
+    "option": "",
+    "count": "",
+    "passport": "",
+    "rune": "0",
+    "compliteloc": "0;0;0;0;0",
+    "item": [],
+    "story": "...."
+  }
+]

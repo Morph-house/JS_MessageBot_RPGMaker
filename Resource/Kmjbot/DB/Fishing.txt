@@ -1,0 +1,142 @@
+[
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4001",
+    "kind": "SundryItem",
+    "rate": "35"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4002",
+    "kind": "SundryItem",
+    "rate": "22"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4003",
+    "kind": "SundryItem",
+    "rate": "18"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4004",
+    "kind": "SundryItem",
+    "rate": "11"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4005",
+    "kind": "SundryItem",
+    "rate": "7"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4006",
+    "kind": "SundryItem",
+    "rate": "5"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4007",
+    "kind": "SundryItem",
+    "rate": "1"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4008",
+    "kind": "SundryItem",
+    "rate": "0.6"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4009",
+    "kind": "SundryItem",
+    "rate": "0.3"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "fish": "4010",
+    "kind": "SundryItem",
+    "rate": "0.1"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4011",
+    "kind": "SundryItem",
+    "rate": "36"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4012",
+    "kind": "SundryItem",
+    "rate": "28"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4013",
+    "kind": "SundryItem",
+    "rate": "16"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4014",
+    "kind": "SundryItem",
+    "rate": "10"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4015",
+    "kind": "SundryItem",
+    "rate": "7"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4016",
+    "kind": "SundryItem",
+    "rate": "1.95"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4017",
+    "kind": "SundryItem",
+    "rate": "0.6"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4018",
+    "kind": "SundryItem",
+    "rate": "0.3"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4019",
+    "kind": "SundryItem",
+    "rate": "0.1"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "fish": "4020",
+    "kind": "SundryItem",
+    "rate": "0.05"
+  }
+]

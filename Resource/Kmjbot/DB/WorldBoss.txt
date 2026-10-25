@@ -1,0 +1,118 @@
+[
+  {
+    "monsteridx": "9",
+    "Ranking": "1",
+    "rune": "30000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "3",
+        "kind": "SundryItem"
+      },
+      {
+        "index": "6",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "9",
+    "Ranking": "2",
+    "rune": "12000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "2",
+        "kind": "SundryItem"
+      },
+      {
+        "index": "6",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "9",
+    "Ranking": "3",
+    "rune": "5000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "9",
+    "Ranking": "4",
+    "rune": "3000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "33",
+    "Ranking": "1",
+    "rune": "100000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "5",
+        "kind": "SundryItem"
+      },
+      {
+        "index": "46",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "33",
+    "Ranking": "2",
+    "rune": "50000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "3",
+        "kind": "SundryItem"
+      },
+      {
+        "index": "46",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "33",
+    "Ranking": "3",
+    "rune": "20000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "2",
+        "kind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "monsteridx": "33",
+    "Ranking": "4",
+    "rune": "10000",
+    "items": [
+      {
+        "index": "10000",
+        "count": "1",
+        "kind": "SundryItem"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "city": "4",
+    "facility": "18",
+    "item": "30",
+    "itemkind": "FunctionalityItem",
+    "coin": "6"
+  },
+  {
+    "city": "4",
+    "facility": "18",
+    "item": "31",
+    "itemkind": "FunctionalityItem",
+    "coin": "10"
+  },
+  {
+    "city": "4",
+    "facility": "18",
+    "item": "32",
+    "itemkind": "FunctionalityItem",
+    "coin": "10"
+  },
+  {
+    "city": "4",
+    "facility": "18",
+    "item": "33",
+    "itemkind": "FunctionalityItem",
+    "coin": "10"
+  }
+]

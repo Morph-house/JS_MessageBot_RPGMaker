@@ -1,0 +1,188 @@
+[
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "7",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "8",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "9",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "2",
+    "strength": ""
+  },
+  {
+    "index": "9",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "34",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  },
+  {
+    "index": "10",
+    "kind": "FunctionalityItem",
+    "count": "1",
+    "strength": ""
+  },
+  {
+    "index": "10",
+    "kind": "FunctionalityItem",
+    "count": "3",
+    "strength": ""
+  }
+]

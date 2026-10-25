@@ -1,0 +1,52 @@
+[
+  {
+    "functionalyindex": "4",
+    "itemlist": [
+      {
+        "itemidx": "1",
+        "itemkind": "FunctionalityItem",
+        "count": "5"
+      },
+      {
+        "itemidx": "2",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      },
+      {
+        "itemidx": "3",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      },
+      {
+        "itemidx": "40",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "functionalyindex": "34",
+    "itemlist": [
+      {
+        "itemidx": "30",
+        "itemkind": "FunctionalityItem",
+        "count": "5"
+      },
+      {
+        "itemidx": "31",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      },
+      {
+        "itemidx": "32",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      },
+      {
+        "itemidx": "33",
+        "itemkind": "FunctionalityItem",
+        "count": "3"
+      }
+    ]
+  }
+]

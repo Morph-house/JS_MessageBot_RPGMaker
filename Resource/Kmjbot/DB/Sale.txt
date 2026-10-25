@@ -1,0 +1,434 @@
+[
+  {
+    "city": "1",
+    "facility": "4",
+    "item": "1",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "1",
+    "facility": "4",
+    "item": "2",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "1",
+    "facility": "4",
+    "item": "3",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "1",
+    "facility": "4",
+    "item": "40",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "1",
+    "facility": "4",
+    "item": "5",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "1",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "2",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "3",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "4",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "5",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "6",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "7",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "1",
+    "facility": "5",
+    "item": "8",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "2",
+    "facility": "4",
+    "item": "1",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "2",
+    "facility": "4",
+    "item": "2",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "2",
+    "facility": "4",
+    "item": "3",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "2",
+    "facility": "4",
+    "item": "40",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "2",
+    "facility": "4",
+    "item": "6",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "2",
+    "facility": "5",
+    "item": "26",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "2",
+    "facility": "5",
+    "item": "27",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "2",
+    "facility": "5",
+    "item": "28",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "2",
+    "facility": "5",
+    "item": "29",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "item": "14",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "item": "15",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "item": "16",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "item": "17",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "12",
+    "item": "18",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "20",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "21",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "22",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "23",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "24",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "25",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "26",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "27",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "3",
+    "facility": "15",
+    "item": "28",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "4",
+    "item": "30",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "4",
+    "item": "31",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "4",
+    "item": "32",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "4",
+    "item": "33",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "4",
+    "item": "19",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "30",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "31",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "32",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "33",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "34",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "4",
+    "facility": "5",
+    "item": "35",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "24",
+    "item": "30",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "24",
+    "item": "31",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "24",
+    "item": "32",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "24",
+    "item": "33",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "24",
+    "item": "38",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "73",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "74",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "75",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "76",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "77",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "78",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "79",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "80",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "81",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "82",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "25",
+    "item": "83",
+    "itemkind": "WearItem"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "item": "49",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "item": "50",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "item": "51",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "5",
+    "facility": "29",
+    "item": "52",
+    "itemkind": "FunctionalityItem"
+  },
+  {
+    "city": "6",
+    "facility": "33",
+    "item": "9000",
+    "itemkind": "SundryItem"
+  },
+  {
+    "city": "6",
+    "facility": "33",
+    "item": "9001",
+    "itemkind": "SundryItem"
+  },
+  {
+    "city": "6",
+    "facility": "33",
+    "item": "9002",
+    "itemkind": "SundryItem"
+  },
+  {
+    "city": "6",
+    "facility": "33",
+    "item": "9003",
+    "itemkind": "SundryItem"
+  },
+  {
+    "city": "6",
+    "facility": "31",
+    "item": "53",
+    "itemkind": "FunctionalityItem"
+  }
+]

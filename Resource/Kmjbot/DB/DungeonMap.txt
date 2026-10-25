@@ -1,0 +1,4303 @@
+[
+  {
+    "index": "1",
+    "attach": "1",
+    "gate": "entrance",
+    "name": "심연의 입구: 굳게 닫힌 해치",
+    "description": "앰버 하운의 거친 지하 광맥 끝자락. 에테르의 빛조차 닿지 않는 어둠 속에 거대 전함의 묵직한 강철 입구가 자리 잡고 있습니다. '심연의 열쇠'가 있어야만 열 수 있습니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "1"
+    ],
+    "mobcount": "5",
+    "rune": "1000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "3"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "2",
+    "attach": "1",
+    "gate": "common",
+    "name": "침식된 격납고 진입로",
+    "description": "굳게 닫힌 해치를 넘어 전함 내부로 들어가는 첫 통로입니다. 오랜 세월 방치된 강철 벽면 사이로 크롤러들의 긁힌 자국이 선명합니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mobcount": "10",
+    "rune": "2000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "3",
+    "attach": "1",
+    "gate": "common",
+    "name": "부서진 강철 갑판",
+    "description": "흙과 바위에 반쯤 파묻힌 전함의 거대한 외부 갑판입니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "2000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "4",
+    "attach": "1",
+    "gate": "common",
+    "name": "제1 방어선: 키틴질 격벽",
+    "description": "갑판에서 내부 시설로 이어지는 길목. 본래의 강철 문은 부서지고, 크롤러 군체가 뿜어낸 기괴한 생체 키틴질이 거미줄처럼 엉켜 벽을 이루고 있습니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "2000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "5"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "5",
+    "attach": "1",
+    "gate": "middle",
+    "name": "버려진 에테르 하역장",
+    "description": "과거 전함의 자원을 내리고 싣던 거대한 창고 폐허입니다. 지금은 부서진 컨테이너 더미 사이로 하급 크롤러들이 숨어 지내는 은신처가 되었습니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mobcount": "10",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "12"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "7"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "6",
+    "attach": "1",
+    "gate": "middle",
+    "name": "에테르 펌프실",
+    "description": "대지에서 끝없이 뿜어져 나오는 황금빛 에테르를 전함 내부로 끌어올리는 거대한 파이프들이 혈관처럼 복잡하게 얽혀 있는 구역입니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "12"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "7"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "7",
+    "attach": "1",
+    "gate": "middle",
+    "name": "군체 배양소",
+    "description": "흡수한 에테르를 바탕으로 수많은 a타입 크롤러들을 끊임없이 생산해내는 끔찍한 생체 배양실입니다. 바닥은 끈적한 체액으로 덮여 있습니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "12"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "7"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "8",
+    "attach": "1",
+    "gate": "middle",
+    "name": "폐기물 처리장: 산성 늪",
+    "description": "배양 후 남은 기계 찌꺼기와 크롤러 리셉터a가 뿜어낸 맹독성 산성액이 섞여 만들어진 위험한 늪지대입니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "12"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "7"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "9",
+    "attach": "1",
+    "gate": "rare",
+    "name": "환기구 암살로",
+    "description": "전함 하층부의 열기를 빼내는 좁고 어두운 환기 통로입니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "14"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "9"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "2",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "10",
+    "attach": "1",
+    "gate": "exit",
+    "name": "보조 동력 회랑",
+    "description": "메인 동력로로 가기 전, 전함의 서브 엔진 에너지가 흐르는 긴 복도입니다. 파손된 전선에서 간헐적으로 마력 스파크가 튀어 오릅니다.",
+    "powerrate": "2.2",
+    "boss": "4",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "15",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "21",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "5",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "11",
+    "attach": "1",
+    "gate": "rare",
+    "name": "주포 에테르 충전소",
+    "description": "퀄리아크a의 강력한 원거리 포격을 위해 고농축 에테르를 탄환 형태로 압축하고 있는 위험천만한 화약고입니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "14"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "9"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "2",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "12",
+    "attach": "1",
+    "gate": "rare",
+    "name": "제2 방어선: 시냅스 관문",
+    "description": "심장부로 향하는 마지막 관문입니다. 차가운 기계 장치와 보라색 신경망(시냅스)이 완벽하게 융합되어 살아 숨 쉬는 듯한 기괴한 문맥입니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "14"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "9"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "2",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "13",
+    "attach": "1",
+    "gate": "rare",
+    "name": "중추 신경망 회랑",
+    "description": "거대 전함의 뼈대 위로 크롤러 군체의 거대한 보라색 인공 신경망이 맥박처럼 적나라하게 박동하며 흐르는 소름 돋는 복도입니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "14"
+      },
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "9"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "2",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "14",
+    "attach": "1",
+    "gate": "exit",
+    "name": "폐쇄된 함교",
+    "description": "과거 전함을 지휘하던 웅장한 사령실이었으나, 지금은 크롤러에 의해 완전히 통제권을 빼앗긴 으스스한 공간입니다. 최종 결전을 앞둔 정비 구역 역할을 합니다.",
+    "powerrate": "2.2",
+    "boss": "8",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "15",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "21",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "5",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "15",
+    "attach": "1",
+    "gate": "exit",
+    "name": "심연의 동력로",
+    "description": "던전의 가장 깊은 심연. 전함을 가동하는 거대한 메인 엔진룸이자, 에테르를 미친 듯이 흡수하며 깨어난 거대 전투 전함 '엑스크롤러 퀄리아크a'와의 사투가 벌어지는 결전의 장소입니다.",
+    "powerrate": "2.2",
+    "boss": "10",
+    "monster": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "mobcount": "15",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "20",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "21",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "4",
+        "itemkind": "FunctionalityItem",
+        "count": "5",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "29",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "16",
+    "attach": "1000",
+    "gate": "entrance",
+    "name": "입구 : 붕괴된 오메가 게이트",
+    "description": "기계성체 최하층으로 향하는 거대한 쓰레기장 입구입니다. 뒤틀린 강철 문턱 너머로 역겨운 부패의 냄새가 진동합니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22"
+    ],
+    "mobcount": "5",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "17",
+    "attach": "1000",
+    "gate": "common",
+    "name": "침묵의 고철 산맥",
+    "description": "진화를 위해 희생된 수많은 하급 크롤러들의 잔해가 썩어가는 산을 이루고 있습니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "5",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "18",
+    "attach": "1000",
+    "gate": "common",
+    "name": "부패한 키틴질 무덤",
+    "description": "파괴된 크롤러들의 단단한 외갑각들이 벗겨져 거대한 무덤처럼 쌓여있는 구역입니다.",
+    "powerrate": "1.1",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "19",
+    "attach": "1000",
+    "gate": "common",
+    "name": "녹슨 컨베이어 벨트",
+    "description": "더 이상 작동하지 않는 거대한 운송 벨트 위에 파손된 톱니바퀴와 부품들이 뒹굴고 있습니다.",
+    "powerrate": "1.1",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "8"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "20",
+    "attach": "1000",
+    "gate": "common",
+    "name": "폐기용 에테르 하수구",
+    "description": "성체 상층부에서 쓰다 버린 맹독성 에테르가 탁한 황금빛을 내며 하수구로 흘러내립니다.",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "21",
+    "attach": "1000",
+    "gate": "common",
+    "name": "제1구역 : 파쇄된 전위대",
+    "description": "과거 솔라리스 잿빛 방벽을 침공했다가 파괴된 크롤러 전위대의 잔해들이 벽처럼 쌓여 길을 막고 있습니다.",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "22",
+    "attach": "1000",
+    "gate": "common",
+    "name": "맹독성 산성 늪",
+    "description": "파괴된 크롤러 리셉터들이 뿜어낸 맹독과 폐기물이 섞여 바닥 전체가 부글거리는 산성 늪지대입니다.",
+    "powerrate": "1.3",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "23",
+    "attach": "1000",
+    "gate": "common",
+    "name": "버려진 생체 회로망",
+    "description": "천장에서부터 기괴하게 자라난 크롤러의 인공 생체 회로망이 거미줄처럼 엉켜 빛을 잃어가고 있습니다.",
+    "powerrate": "1.3",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "24",
+    "attach": "1000",
+    "gate": "common",
+    "name": "어둠의 압축 공정",
+    "description": "쓸모없는 고철들을 짓눌러 뭉치는 거대한 프레스 기계들이 미쳐 날뛰며 쉴 새 없이 바닥을 내리찍습니다.",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "10",
+    "rune": "4000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "15"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "25",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "부서진 관절의 계곡",
+    "description": "크롤러들의 버려진 다리 관절과 유압식 모터들이 산산조각 나 바닥을 덮고 있는 날카로운 계곡입니다.",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "23"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "35"
+      }
+    ]
+  },
+  {
+    "index": "26",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "오염된 황금빛 폭포",
+    "description": "기계성체 상층에서 버려진 에테르와 찌꺼기들이 거대한 폭포가 되어 쏟아져 내리는 오염 구역입니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "23"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "27",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "제2구역 : 융해로 진입로",
+    "description": "쓸모없는 부품을 녹여 새로운 병기로 만들기 위한 거대한 용광로의 열기가 느껴지기 시작합니다.",
+    "powerrate": "1.5",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "23"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "28",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "들끓는 강철 용광로",
+    "description": "붉은 화염과 황금빛 에테르가 뒤섞여 끓어오르는 용광로. 이곳에서 Z타입의 초중장갑이 연성됩니다.",
+    "powerrate": "1.6",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "23"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "29",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "초전도 자기장 통로",
+    "description": "Z타입 크롤러들에게 폭발적인 스피드를 부여하기 위한 초전도 케이블이 깔린 통로로, 사방에서 스파크가 튑니다.",
+    "powerrate": "1.6",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "23"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "30",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "유기 엔진 폐기장",
+    "description": "Z타입에 이식하려다 실패한 흉측한 생체 유기 엔진들이 붉은 박동을 내며 버려져 있습니다.",
+    "powerrate": "1.7",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      }
+    ]
+  },
+  {
+    "index": "31",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "에테르 냉각수 누출 지대",
+    "description": "용광로를 식히기 위한 에테르 냉각수가 파이프에서 터져 나와, 주변을 얼어붙게 만드는 혹한의 지대입니다.",
+    "powerrate": "1.7",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "45"
+      }
+    ]
+  },
+  {
+    "index": "32",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "방치된 배양 캡슐",
+    "description": "에테르 마력과 크롤러의 신경망을 강제 융합시키던 거대한 실험 캡슐들이 산산조각 난 채 방치되어 있습니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "45"
+      }
+    ]
+  },
+  {
+    "index": "33",
+    "attach": "1000",
+    "gate": "middle",
+    "name": "제3구역 : Z-장갑판 야적장",
+    "description": "흠집 하나 없는 완벽한 강도의 '크롤러 Z-장갑판'들이 출격을 앞두고 산더미처럼 쌓여 있는 야적장입니다.",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "12",
+    "rune": "8000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "40"
+      },
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "45"
+      }
+    ]
+  },
+  {
+    "index": "34",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "심연의 환기구",
+    "description": "Z타입 배양소에서 뿜어져 나오는 유독 가스와 열기를 배출하는 비좁고 숨 막히는 통로입니다.",
+    "powerrate": "1.9",
+    "boss": "14",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "45"
+      }
+    ]
+  },
+  {
+    "index": "35",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "초월적 기계 심장부 무덤",
+    "description": "수명을 다한 엑스크롤러들의 거대한 동력 코어들이 고분군의 해골처럼 기괴하게 널려있습니다.",
+    "powerrate": "1.9",
+    "boss": "14",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "45"
+      }
+    ]
+  },
+  {
+    "index": "36",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "변이된 시냅스 동굴",
+    "description": "보라색 신경망(시냅스)들이 마치 살아있는 혈관처럼 동굴 전체를 집어삼켜 끔찍한 진동을 뿜어냅니다.",
+    "powerrate": "2",
+    "boss": "14",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "37",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "절망의 메인보드",
+    "description": "끝이 보이지 않는 거대한 전자 회로 기판 위를 걸어야 합니다. 한 걸음 내디딜 때마다 마력의 압박이 느껴집니다.",
+    "powerrate": "2",
+    "boss": "18",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "38",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "피에 물든 조립 라인",
+    "description": "Z타입 정예 군체들을 찍어내던 끔찍한 조립 라인입니다. 누군가의 피와 맹독으로 붉게 얼룩져 있습니다.",
+    "powerrate": "2.1",
+    "boss": "18",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "39",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "제4구역 : 데우스의 회랑",
+    "description": "폐기장의 난장판이 끝나고, 차가운 엑스크롤러들의 전용 회랑이 시작됩니다. 광역 빙결의 지배자 뉴로고스z가 막아섭니다.",
+    "powerrate": "2.2",
+    "boss": "18",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "40",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "파멸의 에테르 응축소",
+    "description": "기계성체의 모든 에테르가 이곳으로 빨려 들어가며 시공간마저 일그러지는 궁극의 에너지 응축소입니다.",
+    "powerrate": "2.3",
+    "boss": "19",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "41",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "Z타입 예열 격납고",
+    "description": "대기 중인 최정예 크롤러 Z타입 군단이 뿜어내는 붉은 안광과 기계음으로 가득 찬 공포의 격납고입니다.",
+    "powerrate": "2.3",
+    "boss": "19",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "42",
+    "attach": "1000",
+    "gate": "rare",
+    "name": "융합 엔진 코어실",
+    "description": "파멸의 융합 엔진이 터질 듯이 돌아가며 성체 최심부 전체에 무한한 에너지를 공급하는 심장부입니다.",
+    "powerrate": "2.4",
+    "boss": "19",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "15",
+    "rune": "10000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "70"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      }
+    ]
+  },
+  {
+    "index": "43",
+    "attach": "1000",
+    "gate": "exit",
+    "name": "군단장의 옥좌 입구",
+    "description": "모든 Z타입을 통제하는 군단장들의 방으로 향하는 거대한 검은색 격벽입니다. 지진의 지배자 시냅시스z가 지키고 있습니다.",
+    "powerrate": "2.5",
+    "boss": "23",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "20",
+    "rune": "12000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "20"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      }
+    ]
+  },
+  {
+    "index": "44",
+    "attach": "1000",
+    "gate": "exit",
+    "name": "오메가 섹터 : 무한의 똬리",
+    "description": "진화의 끝에 도달한 초거대 엑스크롤러들이 대지를 찢어발길 준비를 하며 거대하게 똬리를 틀고 있는 성역입니다.",
+    "powerrate": "2.8",
+    "boss": "27",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "20",
+    "rune": "12000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "60"
+      }
+    ]
+  },
+  {
+    "index": "45",
+    "attach": "1000",
+    "gate": "exit",
+    "name": "최심부 : 강철의 묘비",
+    "description": "폐기장의 진정한 끝자락. 최강 최흉의 존재인 엑스크롤러 퀄리아크z가 유저들을 학살하기 위해 기다리는 멸망의 전장입니다.",
+    "powerrate": "3",
+    "boss": "28",
+    "monster": [
+      "20",
+      "21",
+      "22",
+      "24",
+      "25",
+      "26"
+    ],
+    "mobcount": "20",
+    "rune": "15000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "31",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "32",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "50"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "36",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "70"
+      }
+    ]
+  },
+  {
+    "index": "46",
+    "attach": "1001",
+    "gate": "entrance",
+    "name": "보안 게이트 입구",
+    "description": "퀄리아가 가동한 보안 구역의 입구입니다. Z타입의 하급 개체들이 앞을 가로막고 있습니다.",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22"
+    ],
+    "mobcount": "5",
+    "rune": "1000",
+    "needap": "1",
+    "item": []
+  },
+  {
+    "index": "47",
+    "attach": "1001",
+    "gate": "common",
+    "name": "통제 스캐너 복도",
+    "description": "침입자를 배제하기 위해 붉은 스캐너가 번쩍이는 복도입니다.",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "20",
+      "21",
+      "22"
+    ],
+    "mobcount": "8",
+    "rune": "1000",
+    "needap": "1",
+    "item": []
+  },
+  {
+    "index": "48",
+    "attach": "1001",
+    "gate": "exit",
+    "name": "보안 코어실",
+    "description": "보안 구역의 가장 깊은 곳. 시스템을 수비하는 엑스크롤러 뉴로고스b가 똬리를 틀고 있습니다.",
+    "powerrate": "1.5",
+    "boss": "14",
+    "monster": [
+      "20",
+      "21",
+      "22"
+    ],
+    "mobcount": "10",
+    "rune": "2000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "33",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      }
+    ]
+  },
+  {
+    "index": "49",
+    "attach": "2",
+    "gate": "entrance",
+    "name": "제단 입구 : 원혼의 철문",
+    "description": "러스트 하벤 지하 깊은 곳, 원혼들의 비명이 새어 나오는 제단 입구",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31"
+    ],
+    "mobcount": "5",
+    "rune": "2000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "50",
+    "attach": "2",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31"
+    ],
+    "mobcount": "6",
+    "rune": "3000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "51",
+    "attach": "3",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31"
+    ],
+    "mobcount": "7",
+    "rune": "3001",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "52",
+    "attach": "4",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31"
+    ],
+    "mobcount": "8",
+    "rune": "3002",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "53",
+    "attach": "5",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "9",
+    "rune": "3003",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "attach": "2",
+    "gate": "common",
+    "name": "통곡하는 쇳덩이 통로",
+    "description": "고철들이 마찰하며 소름 돋는 소리를 뿜어내는 통로",
+    "powerrate": "1.2",
+    "boss": "",
+    "monster": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "10",
+    "rune": "3200",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "55",
+    "attach": "6",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "10",
+    "rune": "3004",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "56",
+    "attach": "7",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "10",
+    "rune": "3005",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "57",
+    "attach": "8",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "10",
+    "rune": "3006",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "58",
+    "attach": "2",
+    "gate": "common",
+    "name": "원혼이 떠도는 고철 공터",
+    "description": "원혼들의 사념이 고철에 엉켜 맴도는 넓은 공터",
+    "powerrate": "1.4",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "12",
+    "rune": "3500",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "59",
+    "attach": "9",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.6",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "12",
+    "rune": "3007",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "60",
+    "attach": "10",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.6",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "12",
+    "rune": "3008",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "61",
+    "attach": "11",
+    "gate": "common",
+    "name": "부식된 폐기물 복도",
+    "description": "녹슨 강철 파이프와 오염된 쓰레기가 가득 찬 어두운 복도",
+    "powerrate": "1.6",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "12",
+    "rune": "3009",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "62",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "63",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "64",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "1.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "65",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "66",
+    "attach": "2",
+    "gate": "middle",
+    "name": "원혼의 음습한 배양실",
+    "description": "부해의 독기와 원혼이 엉켜 생명체가 변이되는 실험실",
+    "powerrate": "2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5500",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "67",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "68",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2.1",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "69",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2.1",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "70",
+    "attach": "2",
+    "gate": "middle",
+    "name": "부패한 에테르 동력실",
+    "description": "오염된 에테르가 혈관처럼 일렁이는 핵심 동력 구역",
+    "powerrate": "2.1",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "6000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "71",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "72",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "73",
+    "attach": "2",
+    "gate": "middle",
+    "name": "오염된 강철 용해로",
+    "description": "검은 연기와 열기가 뿜어져 나오는 폐 용해로 구역",
+    "powerrate": "2.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "15",
+    "rune": "5000",
+    "needap": "1",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "74",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.2",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "75",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.4",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "76",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.4",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "77",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.4",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "78",
+    "attach": "2",
+    "gate": "rare",
+    "name": "저주받은 정령의 보관소",
+    "description": "봉인에서 풀려난 정령들의 사념이 갇혀 있던 봉인소",
+    "powerrate": "2.5",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8500",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "79",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.5",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "80",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.5",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "81",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.6",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "82",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼이 집속된 망령 회랑",
+    "description": "짙은 검은 마력이 밀집되어 회피가 힘든 회랑",
+    "powerrate": "2.6",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "9000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "83",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "84",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "85",
+    "attach": "2",
+    "gate": "rare",
+    "name": "원혼의 비명이 울리는 회랑",
+    "description": "통곡하는 원혼들의 비명이 귓가를 찢는 좁은 회랑",
+    "powerrate": "2.8",
+    "boss": "",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "8000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "86",
+    "attach": "2",
+    "gate": "exit",
+    "name": "제단 최심부 : 결전의 전야",
+    "description": "결전을 앞두고 마지막 정비를 수행하는 안전 구역",
+    "powerrate": "3",
+    "boss": "32",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "10000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "87",
+    "attach": "2",
+    "gate": "exit",
+    "name": "타락한 정령의 봉인 구역",
+    "description": "중간 보스 오염된 에테르의 망령이 버티고 서 있는 구역",
+    "powerrate": "3",
+    "boss": "38",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "15000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  },
+  {
+    "index": "88",
+    "attach": "2",
+    "gate": "exit",
+    "name": "원혼의 제단 : 강철 정령의 둥지",
+    "description": "제단의 최심부. 최종 보스 타락한 강철 정령과의 결전장",
+    "powerrate": "3.1",
+    "boss": "39",
+    "monster": [
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "mobcount": "20",
+    "rune": "30000",
+    "needap": "2",
+    "item": [
+      {
+        "itemIdx": "51",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "52",
+        "itemkind": "SundryItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "10"
+      },
+      {
+        "itemIdx": "34",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "100"
+      },
+      {
+        "itemIdx": "67",
+        "itemkind": "FunctionalityItem",
+        "count": "1",
+        "strength": "",
+        "droprate": "30"
+      }
+    ]
+  }
+]

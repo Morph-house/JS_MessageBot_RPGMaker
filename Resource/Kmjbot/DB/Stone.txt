@@ -1,0 +1,42 @@
+[
+  {
+    "city": "2",
+    "facility": "10",
+    "item": "1001",
+    "count": "1",
+    "itemkind": "SundryItem",
+    "rate": "500"
+  },
+  {
+    "city": "2",
+    "facility": "10",
+    "item": "1002",
+    "count": "1",
+    "itemkind": "SundryItem",
+    "rate": "290"
+  },
+  {
+    "city": "2",
+    "facility": "10",
+    "item": "1003",
+    "count": "1",
+    "itemkind": "SundryItem",
+    "rate": "200"
+  },
+  {
+    "city": "2",
+    "facility": "10",
+    "item": "1004",
+    "count": "1",
+    "itemkind": "SundryItem",
+    "rate": "9"
+  },
+  {
+    "city": "2",
+    "facility": "10",
+    "item": "1005",
+    "count": "1",
+    "itemkind": "SundryItem",
+    "rate": "1"
+  }
+]

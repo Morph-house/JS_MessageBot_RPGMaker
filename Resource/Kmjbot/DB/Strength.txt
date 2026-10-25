@@ -1,0 +1,314 @@
+[
+  {
+    "level": "1",
+    "safety": "N",
+    "needrune": "1000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "8",
+        "kind": "SundryItem",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "level": "2",
+    "safety": "N",
+    "needrune": "2000",
+    "rate": "90",
+    "meterial": [
+      {
+        "itemIdx": "8",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "3",
+    "safety": "N",
+    "needrune": "4000",
+    "rate": "80",
+    "meterial": [
+      {
+        "itemIdx": "8",
+        "kind": "SundryItem",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "level": "4",
+    "safety": "N",
+    "needrune": "8000",
+    "rate": "70",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "level": "5",
+    "safety": "N",
+    "needrune": "16000",
+    "rate": "60",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "6",
+    "safety": "N",
+    "needrune": "32000",
+    "rate": "50",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "level": "7",
+    "safety": "N",
+    "needrune": "64000",
+    "rate": "50",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "level": "8",
+    "safety": "N",
+    "needrune": "128000",
+    "rate": "50",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "9",
+    "safety": "N",
+    "needrune": "256000",
+    "rate": "50",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "level": "10",
+    "safety": "N",
+    "needrune": "512000",
+    "rate": "50",
+    "meterial": [
+      {
+        "itemIdx": "11",
+        "kind": "SundryItem",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "level": "11",
+    "safety": "N",
+    "needrune": "1000000",
+    "rate": "40",
+    "meterial": [
+      {
+        "itemIdx": "11",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "12",
+    "safety": "N",
+    "needrune": "1000000",
+    "rate": "40",
+    "meterial": [
+      {
+        "itemIdx": "11",
+        "kind": "SundryItem",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "level": "13",
+    "safety": "N",
+    "needrune": "1500000",
+    "rate": "30",
+    "meterial": [
+      {
+        "itemIdx": "12",
+        "kind": "SundryItem",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "level": "14",
+    "safety": "N",
+    "needrune": "1500000",
+    "rate": "30",
+    "meterial": [
+      {
+        "itemIdx": "12",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "15",
+    "safety": "N",
+    "needrune": "2000000",
+    "rate": "20",
+    "meterial": [
+      {
+        "itemIdx": "12",
+        "kind": "SundryItem",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "level": "2",
+    "safety": "Y",
+    "needrune": "10000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "8",
+        "kind": "SundryItem",
+        "count": "9"
+      }
+    ]
+  },
+  {
+    "level": "3",
+    "safety": "Y",
+    "needrune": "20000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "8",
+        "kind": "SundryItem",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "level": "4",
+    "safety": "Y",
+    "needrune": "40000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "5",
+    "safety": "Y",
+    "needrune": "80000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "9"
+      }
+    ]
+  },
+  {
+    "level": "6",
+    "safety": "Y",
+    "needrune": "160000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "9",
+        "kind": "SundryItem",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "level": "7",
+    "safety": "Y",
+    "needrune": "320000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "level": "8",
+    "safety": "Y",
+    "needrune": "640000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "9"
+      }
+    ]
+  },
+  {
+    "level": "9",
+    "safety": "Y",
+    "needrune": "1280000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "10",
+        "kind": "SundryItem",
+        "count": "15"
+      }
+    ]
+  },
+  {
+    "level": "10",
+    "safety": "Y",
+    "needrune": "2560000",
+    "rate": "100",
+    "meterial": [
+      {
+        "itemIdx": "11",
+        "kind": "SundryItem",
+        "count": "3"
+      }
+    ]
+  }
+]

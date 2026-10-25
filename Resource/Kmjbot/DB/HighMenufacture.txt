@@ -1,0 +1,938 @@
+[
+  {
+    "index": "36",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "37",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "9",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "38",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "11",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "39",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "11",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "40",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "12",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "41",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "12",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "42",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "43",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "35000",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "5",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "44",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "4",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "45",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "4",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "46",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "1",
+    "material": [
+      {
+        "itemIdx": "13",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "14",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "47",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "4",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "2",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "48",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "49",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "50",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "51",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "19",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "52",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "53",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "54",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "55",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "56",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "19",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "57",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "58",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "59",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "17",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "60",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "61",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "19",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "62",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "63",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "15",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "7",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "64",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "16",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "65",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "18",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "66",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "30000",
+    "material": [
+      {
+        "itemIdx": "19",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  },
+  {
+    "index": "67",
+    "itemkind": "WearItem",
+    "city": "4",
+    "facility": "8",
+    "needrune": "50000",
+    "material": [
+      {
+        "itemIdx": "20",
+        "count": "1",
+        "strength": "5",
+        "itemkind": "WearItem"
+      },
+      {
+        "itemIdx": "20",
+        "count": "3",
+        "strength": "",
+        "itemkind": "SundryItem"
+      },
+      {
+        "itemIdx": "21",
+        "count": "1",
+        "strength": "",
+        "itemkind": "SundryItem"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "city": "4",
+    "facility": "21",
+    "country": "2"
+  },
+  {
+    "city": "5",
+    "facility": "21",
+    "country": "1"
+  },
+  {
+    "city": "4",
+    "facility": "21",
+    "country": "1000"
+  },
+  {
+    "city": "1000",
+    "facility": "21",
+    "country": "1"
+  }
+]

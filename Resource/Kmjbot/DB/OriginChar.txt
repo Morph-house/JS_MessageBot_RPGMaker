@@ -1,0 +1,175 @@
+[
+  {
+    "rune": "1000",
+    "skill": [],
+    "inventory": [
+      {
+        "kind": "FunctionalityItem",
+        "index": "4",
+        "count": 1,
+        "strength": 0
+      }
+    ],
+    "equipment": {
+      "head": "",
+      "body": "",
+      "leg": "",
+      "glove": "",
+      "shoes": "",
+      "righthand": "",
+      "lefthand": "",
+      "earing": "",
+      "necklace": "",
+      "ring1": "",
+      "ring2": "",
+      "backdeco": ""
+    },
+    "location": {
+      "country": "1",
+      "city": "1",
+      "facility": "1",
+      "field": ""
+    },
+    "spec_name": "디폴트"
+  },
+  {
+    "rune": "1000",
+    "skill": [
+      "1"
+    ],
+    "inventory": [
+      {
+        "kind": "FunctionalityItem",
+        "index": "4",
+        "count": 1,
+        "strength": 0
+      }
+    ],
+    "equipment": {
+      "head": "",
+      "body": "",
+      "leg": "",
+      "glove": "",
+      "shoes": "",
+      "righthand": "",
+      "lefthand": "",
+      "earing": "",
+      "necklace": "",
+      "ring1": "",
+      "ring2": "",
+      "backdeco": ""
+    },
+    "location": {
+      "country": "1",
+      "city": "1",
+      "facility": "1",
+      "field": ""
+    },
+    "spec_name": "에레인"
+  },
+  {
+    "rune": "1000",
+    "skill": [
+      "2"
+    ],
+    "inventory": [
+      {
+        "kind": "FunctionalityItem",
+        "index": "4",
+        "count": 1,
+        "strength": 0
+      }
+    ],
+    "equipment": {
+      "head": "",
+      "body": "",
+      "leg": "",
+      "glove": "",
+      "shoes": "",
+      "righthand": "",
+      "lefthand": "",
+      "earing": "",
+      "necklace": "",
+      "ring1": "",
+      "ring2": "",
+      "backdeco": ""
+    },
+    "location": {
+      "country": "1",
+      "city": "1",
+      "facility": "1",
+      "field": ""
+    },
+    "spec_name": "바덴"
+  },
+  {
+    "rune": "1000",
+    "skill": [
+      "4"
+    ],
+    "inventory": [
+      {
+        "kind": "FunctionalityItem",
+        "index": "4",
+        "count": 1,
+        "strength": 0
+      }
+    ],
+    "equipment": {
+      "head": "",
+      "body": "",
+      "leg": "",
+      "glove": "",
+      "shoes": "",
+      "righthand": "",
+      "lefthand": "",
+      "earing": "",
+      "necklace": "",
+      "ring1": "",
+      "ring2": "",
+      "backdeco": ""
+    },
+    "location": {
+      "country": "1",
+      "city": "1",
+      "facility": "1",
+      "field": ""
+    },
+    "spec_name": "메르디안"
+  },
+  {
+    "rune": "1000",
+    "skill": [
+      "5"
+    ],
+    "inventory": [
+      {
+        "kind": "FunctionalityItem",
+        "index": "4",
+        "count": 1,
+        "strength": 0
+      }
+    ],
+    "equipment": {
+      "head": "",
+      "body": "",
+      "leg": "",
+      "glove": "",
+      "shoes": "",
+      "righthand": "",
+      "lefthand": "",
+      "earing": "",
+      "necklace": "",
+      "ring1": "",
+      "ring2": "",
+      "backdeco": ""
+    },
+    "location": {
+      "country": "1",
+      "city": "1",
+      "facility": "1",
+      "field": ""
+    },
+    "spec_name": "탄"
+  }
+]
